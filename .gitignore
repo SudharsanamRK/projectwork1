@@ -1,0 +1,40 @@
+# =====================
+# Environment variables (ALL projects)
+# =====================
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
+
+# =====================
+# Node
+# =====================
+**/node_modules/
+**/dist/
+**/build/
+
+# =====================
+# Logs
+# =====================
+npm-debug.log*
+yarn-error.log*
+
+# =====================
+# Python
+# =====================
+**/__pycache__/
+**/*.pyc
+
+# =====================
+# Editor / OS
+# =====================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =====================
+# Secrets
+# =====================
+*.key
+*.pem
