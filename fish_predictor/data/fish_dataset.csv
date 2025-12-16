@@ -1,0 +1,1001 @@
+region,month,temperature,salinity,depth,oxygen,turbidity,species
+Chennai Coast,May,26.3,35.6,24,6.3,7.0,Anchovy
+Visakhapatnam,May,29.6,34.9,79,6.1,4.3,Tuna
+Chennai Coast,March,26.6,35.7,33,5.7,3.4,Anchovy
+Goa Coast,January,30.0,33.3,19,6.2,3.7,Mackerel
+Rameswaram,February,25.6,35.2,69,5.0,2.2,Pomfret
+Kerala Coast,May,26.7,34.6,43,6.6,8.3,Sardine
+Chennai Coast,September,27.0,34.9,60,5.0,3.4,Mackerel
+Andaman Sea,December,29.8,34.6,119,7.1,4.2,Snapper
+Kerala Coast,May,26.7,34.6,42,7.6,5.5,Anchovy
+Chennai Coast,January,26.8,34.2,13,6.1,5.2,Anchovy
+Kerala Coast,August,25.2,33.9,29,4.8,1.3,Anchovy
+Visakhapatnam,November,30.1,33.5,190,4.5,8.7,Tuna
+Goa Coast,January,29.5,34.4,97,4.7,7.4,Snapper
+Goa Coast,June,29.0,34.5,28,5.7,8.5,Seer Fish
+Rameswaram,February,26.9,34.4,79,6.7,9.5,Sardine
+Kerala Coast,September,24.6,34.5,49,5.5,2.5,Anchovy
+Andaman Sea,February,28.5,33.1,131,5.5,6.2,Tuna
+Visakhapatnam,January,28.9,33.1,77,7.7,1.3,Seer Fish
+Kerala Coast,June,27.8,33.2,36,7.6,1.5,Sardine
+Andaman Sea,July,28.5,35.2,45,5.0,4.6,Snapper
+Rameswaram,July,25.1,35.6,48,6.3,2.5,Pomfret
+Chennai Coast,September,25.6,35.7,71,4.7,3.4,Pomfret
+Kerala Coast,January,24.7,35.9,21,7.2,4.6,Anchovy
+Visakhapatnam,June,28.7,35.6,197,6.7,8.6,Tuna
+Visakhapatnam,April,30.9,35.0,42,6.6,3.9,Seer Fish
+Kerala Coast,June,26.7,35.2,36,6.5,9.5,Anchovy
+Chennai Coast,June,27.7,35.7,27,7.9,6.8,Anchovy
+Visakhapatnam,June,28.7,34.9,97,6.9,2.9,Tuna
+Rameswaram,January,26.2,34.1,47,6.8,4.8,Sardine
+Kerala Coast,January,25.2,33.2,41,4.5,3.0,Sardine
+Rameswaram,May,27.2,33.9,61,4.8,2.2,Pomfret
+Kerala Coast,October,25.7,33.2,40,6.8,2.4,Anchovy
+Goa Coast,January,29.2,34.4,76,5.2,1.5,Seer Fish
+Chennai Coast,January,28.7,33.0,31,5.5,1.5,Pomfret
+Rameswaram,May,28.6,35.0,71,7.2,3.4,Pomfret
+Andaman Sea,April,29.4,33.2,175,6.8,5.2,Tuna
+Rameswaram,March,28.4,34.0,41,6.3,1.9,Pomfret
+Visakhapatnam,December,28.6,35.7,80,5.0,4.8,Tuna
+Kerala Coast,July,26.7,35.0,73,6.9,5.0,Sardine
+Rameswaram,November,26.4,34.5,30,6.8,3.0,Pomfret
+Kerala Coast,August,25.4,36.0,31,7.6,6.2,Anchovy
+Goa Coast,December,28.6,33.4,58,5.2,5.0,Seer Fish
+Visakhapatnam,June,29.6,35.8,120,7.0,2.5,Tuna
+Andaman Sea,December,30.2,33.1,199,5.1,5.9,Tuna
+Goa Coast,November,28.1,35.0,71,7.6,1.7,Snapper
+Andaman Sea,August,28.5,33.7,52,4.7,9.4,Snapper
+Rameswaram,October,25.7,35.5,62,5.7,3.7,Sardine
+Visakhapatnam,January,30.0,33.8,98,5.0,5.4,Tuna
+Rameswaram,June,25.6,35.2,30,6.7,7.1,Sardine
+Rameswaram,November,26.6,34.4,33,6.7,7.5,Pomfret
+Andaman Sea,May,29.0,35.1,64,6.7,9.9,Snapper
+Rameswaram,July,26.3,33.9,47,7.0,5.6,Sardine
+Kerala Coast,March,28.8,35.6,41,5.3,9.3,Sardine
+Rameswaram,April,28.5,33.8,21,5.2,3.9,Sardine
+Kerala Coast,July,25.6,34.0,22,7.2,7.1,Sardine
+Kerala Coast,July,25.2,33.2,67,7.4,7.9,Sardine
+Andaman Sea,January,29.2,35.1,82,4.5,7.8,Tuna
+Kerala Coast,March,26.8,35.2,27,7.1,8.6,Anchovy
+Kerala Coast,September,24.9,34.1,48,5.0,7.5,Anchovy
+Rameswaram,July,27.1,33.2,20,7.6,5.6,Sardine
+Rameswaram,June,25.6,34.3,78,6.9,9.7,Pomfret
+Goa Coast,November,29.4,35.1,30,5.8,6.3,Seer Fish
+Chennai Coast,November,27.7,33.7,63,6.3,9.1,Pomfret
+Chennai Coast,May,28.5,33.6,84,7.2,5.3,Pomfret
+Rameswaram,June,26.4,35.3,80,6.7,1.9,Sardine
+Andaman Sea,February,29.8,33.3,76,5.2,4.0,Tuna
+Visakhapatnam,August,30.8,34.3,22,7.7,7.5,Seer Fish
+Rameswaram,July,25.7,35.0,82,7.8,10.0,Pomfret
+Andaman Sea,April,30.6,35.4,167,6.4,5.7,Tuna
+Chennai Coast,January,26.3,33.8,10,7.0,2.5,Anchovy
+Goa Coast,February,28.5,34.4,81,6.3,1.4,Seer Fish
+Chennai Coast,August,25.9,34.1,69,4.7,5.9,Pomfret
+Goa Coast,February,29.5,33.8,86,7.9,2.7,Snapper
+Rameswaram,February,28.6,36.0,32,5.1,4.0,Sardine
+Kerala Coast,February,26.6,34.3,38,7.7,1.7,Anchovy
+Kerala Coast,March,25.6,35.9,27,7.5,6.2,Sardine
+Chennai Coast,November,27.3,34.0,44,5.1,6.0,Pomfret
+Kerala Coast,November,25.5,34.0,79,4.7,8.0,Sardine
+Rameswaram,December,26.0,35.3,71,7.1,6.4,Pomfret
+Visakhapatnam,December,28.8,33.5,162,7.5,7.5,Tuna
+Goa Coast,November,29.0,34.6,73,7.5,2.9,Snapper
+Goa Coast,December,30.4,33.9,88,5.9,8.4,Seer Fish
+Kerala Coast,September,26.2,33.4,20,4.9,1.0,Mackerel
+Visakhapatnam,May,29.9,35.1,27,6.9,2.6,Seer Fish
+Kerala Coast,July,27.4,34.4,73,5.3,6.3,Sardine
+Goa Coast,April,28.1,35.4,50,7.5,8.7,Mackerel
+Andaman Sea,November,30.8,35.4,91,5.3,2.0,Tuna
+Rameswaram,October,27.2,33.4,53,4.5,1.5,Pomfret
+Kerala Coast,July,29.8,35.0,41,6.4,7.5,Mackerel
+Andaman Sea,October,30.0,33.6,138,5.9,8.9,Tuna
+Goa Coast,December,28.3,34.0,49,7.2,2.6,Snapper
+Goa Coast,July,28.0,33.3,81,4.8,7.1,Snapper
+Chennai Coast,October,28.1,34.7,80,5.2,1.1,Pomfret
+Chennai Coast,July,27.4,33.9,88,7.2,3.8,Pomfret
+Rameswaram,January,28.8,35.0,52,7.9,8.1,Sardine
+Kerala Coast,December,25.2,33.1,46,7.7,4.1,Anchovy
+Rameswaram,October,25.2,34.6,35,7.7,3.0,Sardine
+Andaman Sea,January,27.4,34.3,93,7.8,6.2,Snapper
+Kerala Coast,December,27.9,34.0,57,5.3,2.8,Sardine
+Goa Coast,May,29.6,35.9,87,4.9,9.0,Seer Fish
+Chennai Coast,December,27.8,35.5,11,4.6,5.3,Anchovy
+Chennai Coast,June,27.9,34.2,29,5.4,9.8,Anchovy
+Andaman Sea,May,29.3,33.9,99,7.1,9.1,Snapper
+Goa Coast,December,27.2,35.2,62,6.5,5.8,Snapper
+Andaman Sea,February,27.4,35.1,40,5.5,9.1,Snapper
+Chennai Coast,January,27.1,34.7,49,6.0,7.1,Anchovy
+Kerala Coast,December,26.6,33.4,78,5.1,2.9,Sardine
+Visakhapatnam,February,29.5,33.2,180,7.1,3.1,Tuna
+Kerala Coast,March,29.2,35.6,56,7.7,9.5,Mackerel
+Goa Coast,April,30.5,35.6,30,7.8,3.7,Seer Fish
+Goa Coast,June,30.9,35.6,58,8.0,6.8,Seer Fish
+Andaman Sea,January,28.6,35.8,45,4.6,2.1,Snapper
+Andaman Sea,December,27.5,33.6,72,6.2,3.6,Snapper
+Andaman Sea,June,30.8,33.6,134,7.9,6.1,Tuna
+Andaman Sea,May,27.6,34.9,99,5.8,7.1,Snapper
+Kerala Coast,September,28.0,34.0,68,5.6,9.0,Sardine
+Andaman Sea,April,29.0,34.5,118,8.0,2.9,Snapper
+Visakhapatnam,August,29.1,35.2,77,4.8,7.6,Seer Fish
+Rameswaram,August,26.7,34.5,37,4.6,1.4,Pomfret
+Chennai Coast,August,26.2,34.5,74,7.6,6.0,Pomfret
+Visakhapatnam,February,30.5,33.9,172,7.1,1.6,Tuna
+Kerala Coast,June,25.6,34.1,43,8.0,7.9,Anchovy
+Chennai Coast,June,26.9,33.0,41,7.3,3.7,Anchovy
+Andaman Sea,May,31.1,34.9,107,7.7,6.3,Tuna
+Kerala Coast,October,25.4,33.2,29,6.7,7.9,Anchovy
+Visakhapatnam,August,30.5,35.1,167,6.2,3.1,Tuna
+Andaman Sea,March,28.6,33.7,48,7.0,8.4,Snapper
+Goa Coast,November,30.3,34.1,87,7.0,6.8,Seer Fish
+Andaman Sea,July,31.5,34.0,149,6.6,3.2,Tuna
+Kerala Coast,July,26.7,34.3,37,4.9,9.8,Anchovy
+Chennai Coast,November,27.5,33.0,39,6.9,9.3,Anchovy
+Goa Coast,December,28.7,35.6,56,5.0,4.3,Snapper
+Kerala Coast,January,28.5,35.4,74,4.5,9.1,Sardine
+Kerala Coast,June,27.3,33.1,23,4.6,3.2,Mackerel
+Goa Coast,July,27.6,35.1,46,7.3,3.9,Snapper
+Visakhapatnam,January,29.3,33.7,83,6.5,1.2,Tuna
+Goa Coast,January,29.0,34.6,53,5.3,9.4,Mackerel
+Visakhapatnam,April,29.1,34.5,191,8.0,7.3,Tuna
+Rameswaram,September,25.4,33.7,71,5.8,4.8,Sardine
+Goa Coast,October,28.0,33.8,54,7.4,4.8,Mackerel
+Andaman Sea,January,30.5,34.0,116,6.0,2.5,Tuna
+Chennai Coast,March,25.0,35.0,75,6.2,4.5,Pomfret
+Chennai Coast,May,30.0,34.9,22,6.4,4.4,Mackerel
+Goa Coast,September,27.9,33.5,55,4.8,9.4,Mackerel
+Visakhapatnam,March,31.9,35.0,158,7.8,1.8,Tuna
+Chennai Coast,November,25.0,35.8,24,6.7,2.9,Anchovy
+Rameswaram,January,25.4,34.0,69,4.9,7.7,Pomfret
+Goa Coast,April,26.4,34.6,28,4.5,7.9,Mackerel
+Goa Coast,February,27.8,34.9,34,6.0,6.5,Seer Fish
+Rameswaram,December,27.5,34.6,74,7.9,3.7,Sardine
+Andaman Sea,March,28.3,33.1,97,5.9,9.2,Tuna
+Goa Coast,January,29.3,35.5,50,7.8,4.9,Snapper
+Kerala Coast,August,26.6,34.8,76,6.3,6.7,Sardine
+Chennai Coast,April,25.2,33.9,26,5.6,1.6,Anchovy
+Goa Coast,July,28.2,33.8,109,5.0,2.5,Snapper
+Chennai Coast,August,27.8,36.0,27,5.3,4.0,Mackerel
+Chennai Coast,November,27.8,35.4,38,7.5,3.0,Anchovy
+Chennai Coast,August,25.2,33.9,85,6.8,6.0,Pomfret
+Chennai Coast,February,27.2,34.7,44,5.3,5.3,Anchovy
+Visakhapatnam,March,30.9,35.1,179,6.8,2.6,Tuna
+Goa Coast,July,30.9,35.1,38,5.5,1.9,Seer Fish
+Andaman Sea,November,28.9,33.8,64,6.6,3.6,Tuna
+Chennai Coast,August,26.1,33.9,54,5.8,1.7,Mackerel
+Goa Coast,November,27.6,34.3,33,4.9,9.1,Mackerel
+Rameswaram,October,26.3,34.2,72,7.7,8.6,Sardine
+Kerala Coast,October,27.8,35.5,21,5.5,2.9,Mackerel
+Visakhapatnam,June,30.6,34.8,117,5.7,9.8,Tuna
+Andaman Sea,September,27.2,34.0,43,6.2,6.0,Snapper
+Goa Coast,November,28.3,34.4,62,7.1,7.3,Snapper
+Chennai Coast,December,24.6,35.0,22,5.7,1.5,Anchovy
+Kerala Coast,January,25.8,33.6,27,5.6,3.4,Sardine
+Andaman Sea,February,31.7,35.8,139,4.5,5.2,Tuna
+Goa Coast,September,27.2,35.6,29,5.2,4.4,Mackerel
+Chennai Coast,February,25.0,35.0,40,5.8,4.8,Anchovy
+Andaman Sea,January,28.9,33.4,156,5.7,2.8,Tuna
+Kerala Coast,April,27.5,33.7,25,4.9,9.0,Sardine
+Visakhapatnam,September,27.2,34.8,46,5.7,9.7,Seer Fish
+Goa Coast,April,30.0,35.8,76,5.9,5.3,Seer Fish
+Andaman Sea,March,28.4,35.4,52,7.2,4.4,Snapper
+Chennai Coast,December,25.2,34.8,72,4.6,3.5,Pomfret
+Chennai Coast,August,26.4,35.4,49,7.7,4.3,Pomfret
+Chennai Coast,April,27.9,35.8,38,4.7,7.2,Mackerel
+Visakhapatnam,June,28.2,33.6,126,6.4,2.7,Tuna
+Goa Coast,February,29.0,33.6,98,6.1,9.2,Seer Fish
+Rameswaram,October,26.3,33.4,64,5.4,6.5,Pomfret
+Chennai Coast,March,29.0,34.0,55,8.0,4.2,Mackerel
+Kerala Coast,November,25.4,33.0,45,5.0,2.2,Anchovy
+Andaman Sea,August,28.1,34.4,172,7.1,6.7,Tuna
+Visakhapatnam,March,29.7,34.7,199,6.1,5.8,Tuna
+Goa Coast,June,27.4,34.0,59,5.2,9.8,Mackerel
+Visakhapatnam,December,29.5,35.0,114,7.7,8.6,Tuna
+Chennai Coast,January,25.1,34.2,12,5.7,8.4,Anchovy
+Chennai Coast,November,28.1,35.4,11,7.7,7.0,Mackerel
+Chennai Coast,September,27.8,33.7,65,5.2,9.5,Pomfret
+Rameswaram,December,25.5,33.1,59,5.1,9.0,Sardine
+Goa Coast,March,27.6,34.4,73,6.3,1.1,Snapper
+Chennai Coast,February,26.6,34.0,36,6.9,8.4,Anchovy
+Andaman Sea,December,28.6,35.4,126,5.0,3.9,Tuna
+Andaman Sea,April,28.4,35.8,78,7.5,4.7,Snapper
+Visakhapatnam,January,30.1,35.4,27,5.1,8.4,Seer Fish
+Goa Coast,September,29.3,35.7,54,6.1,1.9,Mackerel
+Chennai Coast,August,26.6,33.4,20,7.0,5.8,Anchovy
+Chennai Coast,May,25.1,35.2,54,6.5,7.3,Pomfret
+Kerala Coast,January,26.8,33.8,36,6.3,4.5,Anchovy
+Kerala Coast,February,28.3,33.3,42,7.4,8.1,Sardine
+Chennai Coast,April,26.1,35.7,65,5.0,7.7,Pomfret
+Chennai Coast,April,27.8,33.4,21,7.8,4.7,Anchovy
+Rameswaram,April,28.8,35.1,32,5.1,9.4,Sardine
+Andaman Sea,September,31.5,35.8,179,7.9,6.1,Tuna
+Andaman Sea,June,30.4,34.3,194,4.6,4.0,Tuna
+Chennai Coast,January,29.8,33.4,44,6.5,4.2,Mackerel
+Kerala Coast,March,29.3,35.5,10,5.1,7.7,Mackerel
+Chennai Coast,October,28.0,34.7,48,6.4,4.2,Anchovy
+Chennai Coast,March,27.9,34.4,32,5.6,9.3,Anchovy
+Kerala Coast,June,26.7,34.6,22,5.1,9.3,Sardine
+Chennai Coast,March,28.8,34.6,51,7.3,9.5,Pomfret
+Chennai Coast,December,24.2,34.3,12,7.4,1.9,Anchovy
+Goa Coast,September,27.9,35.1,68,7.7,7.7,Seer Fish
+Chennai Coast,February,26.0,33.7,46,7.8,5.9,Anchovy
+Kerala Coast,January,27.6,33.4,35,5.8,7.3,Sardine
+Andaman Sea,February,28.6,35.9,83,6.0,7.6,Snapper
+Goa Coast,May,27.6,34.3,117,5.4,8.9,Snapper
+Andaman Sea,January,31.1,34.0,189,5.7,6.0,Tuna
+Andaman Sea,February,28.4,33.3,92,7.9,4.3,Tuna
+Goa Coast,July,27.9,35.3,74,6.6,2.3,Snapper
+Goa Coast,May,28.1,35.7,59,6.6,1.5,Snapper
+Chennai Coast,August,26.4,34.2,29,5.2,6.6,Mackerel
+Visakhapatnam,March,30.8,35.7,99,5.4,2.5,Tuna
+Chennai Coast,April,28.8,35.5,73,5.1,2.8,Pomfret
+Visakhapatnam,July,27.8,34.0,49,7.4,4.0,Seer Fish
+Kerala Coast,December,24.7,33.7,23,6.1,8.8,Anchovy
+Chennai Coast,December,25.1,34.3,38,6.6,7.9,Pomfret
+Andaman Sea,May,30.3,35.5,144,6.1,8.4,Tuna
+Visakhapatnam,May,29.4,33.9,35,7.4,1.1,Seer Fish
+Rameswaram,August,27.0,34.3,87,5.5,7.1,Pomfret
+Goa Coast,January,29.0,34.4,61,5.2,4.2,Snapper
+Kerala Coast,January,30.0,34.1,10,7.9,3.1,Mackerel
+Rameswaram,June,26.3,33.3,47,6.8,4.8,Sardine
+Andaman Sea,June,30.9,34.5,117,7.0,6.6,Tuna
+Chennai Coast,July,28.5,35.7,89,7.4,3.2,Pomfret
+Kerala Coast,July,26.0,34.7,23,7.3,9.2,Anchovy
+Andaman Sea,August,29.1,35.3,106,5.5,2.2,Snapper
+Chennai Coast,November,25.7,35.2,41,7.5,4.8,Pomfret
+Visakhapatnam,July,30.6,34.6,39,6.8,4.6,Seer Fish
+Chennai Coast,May,25.3,35.7,42,5.1,5.3,Anchovy
+Andaman Sea,September,29.0,33.6,110,7.2,5.3,Snapper
+Chennai Coast,December,27.2,34.1,38,6.3,8.5,Anchovy
+Andaman Sea,April,29.0,33.6,44,5.4,6.2,Snapper
+Visakhapatnam,September,29.2,35.4,62,7.6,6.6,Seer Fish
+Goa Coast,June,29.7,35.5,79,6.6,6.6,Snapper
+Kerala Coast,April,29.6,33.5,15,7.3,2.4,Mackerel
+Chennai Coast,August,27.3,33.3,48,7.9,1.2,Pomfret
+Kerala Coast,September,27.3,35.7,20,6.5,3.5,Anchovy
+Visakhapatnam,August,29.8,36.0,65,6.4,4.7,Seer Fish
+Rameswaram,May,28.5,33.9,61,5.9,8.3,Sardine
+Goa Coast,February,28.8,35.5,53,5.7,7.3,Seer Fish
+Kerala Coast,January,25.3,34.0,27,7.6,2.3,Anchovy
+Goa Coast,July,28.5,34.3,53,5.7,1.5,Snapper
+Goa Coast,July,30.4,33.5,54,7.0,1.6,Seer Fish
+Andaman Sea,September,27.3,34.1,73,5.3,2.8,Snapper
+Kerala Coast,June,25.7,35.1,38,7.5,2.1,Sardine
+Andaman Sea,December,30.0,35.5,77,6.7,2.8,Snapper
+Kerala Coast,May,24.7,35.4,13,6.7,2.1,Anchovy
+Visakhapatnam,April,28.8,35.3,117,6.0,3.8,Tuna
+Rameswaram,March,26.3,33.8,49,8.0,9.9,Sardine
+Goa Coast,January,28.7,35.6,60,6.3,4.8,Snapper
+Chennai Coast,May,27.7,35.6,35,5.0,3.9,Mackerel
+Andaman Sea,April,29.1,34.3,117,6.7,7.7,Snapper
+Rameswaram,December,25.8,33.7,45,5.8,1.8,Sardine
+Chennai Coast,November,26.8,33.4,41,5.4,9.3,Anchovy
+Visakhapatnam,September,28.6,33.0,93,6.9,8.2,Tuna
+Visakhapatnam,May,31.7,33.8,153,7.4,2.0,Tuna
+Andaman Sea,March,31.1,35.3,173,6.3,9.3,Tuna
+Andaman Sea,June,30.7,35.8,83,6.1,2.8,Tuna
+Chennai Coast,April,27.8,35.1,51,6.6,2.7,Pomfret
+Visakhapatnam,February,28.8,33.7,170,5.5,9.7,Tuna
+Goa Coast,November,30.7,35.0,86,7.8,2.3,Seer Fish
+Kerala Coast,January,28.5,33.1,67,7.4,6.5,Sardine
+Rameswaram,March,28.6,35.6,21,6.6,4.2,Sardine
+Chennai Coast,October,28.4,34.5,76,6.3,5.0,Pomfret
+Chennai Coast,October,24.7,35.8,40,4.7,3.1,Anchovy
+Visakhapatnam,March,27.3,35.4,61,4.7,3.2,Seer Fish
+Visakhapatnam,February,29.2,35.5,66,7.9,3.4,Seer Fish
+Chennai Coast,December,25.7,33.4,39,4.9,4.7,Pomfret
+Rameswaram,May,25.3,34.9,56,4.8,5.9,Pomfret
+Chennai Coast,June,29.7,35.4,51,7.8,4.4,Mackerel
+Chennai Coast,October,28.4,35.7,74,7.4,2.7,Pomfret
+Chennai Coast,November,24.8,35.6,27,6.9,6.6,Anchovy
+Goa Coast,July,28.1,35.5,59,8.0,1.5,Snapper
+Andaman Sea,July,29.7,33.5,163,4.6,9.8,Tuna
+Kerala Coast,October,28.5,33.4,41,5.3,5.7,Mackerel
+Chennai Coast,January,25.2,33.7,13,6.9,9.5,Anchovy
+Chennai Coast,April,28.9,33.8,69,4.7,7.5,Pomfret
+Rameswaram,October,27.7,34.5,58,5.3,2.6,Sardine
+Andaman Sea,August,29.7,35.9,46,5.5,7.2,Snapper
+Andaman Sea,March,28.5,34.0,69,7.7,9.3,Snapper
+Kerala Coast,December,26.7,34.2,22,6.7,2.2,Mackerel
+Kerala Coast,October,28.4,35.6,53,6.4,9.5,Mackerel
+Visakhapatnam,September,29.3,34.8,67,6.5,1.7,Tuna
+Chennai Coast,April,27.3,33.7,27,4.8,5.2,Mackerel
+Rameswaram,January,27.5,34.4,66,4.8,6.5,Sardine
+Goa Coast,March,30.9,33.1,61,7.1,5.7,Seer Fish
+Andaman Sea,April,29.4,35.1,119,4.9,6.2,Tuna
+Chennai Coast,February,24.4,35.7,11,7.0,1.9,Anchovy
+Visakhapatnam,July,28.2,34.9,54,7.7,7.4,Seer Fish
+Kerala Coast,December,29.8,33.9,30,4.9,2.9,Mackerel
+Rameswaram,August,25.0,34.2,47,7.9,4.4,Pomfret
+Andaman Sea,November,28.4,34.3,53,6.6,8.0,Snapper
+Chennai Coast,October,28.8,34.6,48,6.8,3.7,Pomfret
+Goa Coast,January,28.1,34.3,91,4.8,6.6,Snapper
+Visakhapatnam,May,28.7,35.2,91,7.2,9.8,Tuna
+Visakhapatnam,June,29.9,35.9,167,5.9,2.2,Tuna
+Kerala Coast,February,27.3,35.1,46,6.7,9.9,Mackerel
+Kerala Coast,August,28.3,35.1,60,7.3,2.6,Mackerel
+Kerala Coast,February,25.5,35.8,48,4.5,5.1,Sardine
+Goa Coast,December,30.1,35.6,98,7.5,5.7,Seer Fish
+Chennai Coast,January,26.9,35.5,21,6.8,6.3,Anchovy
+Chennai Coast,August,25.6,35.0,12,7.8,3.6,Anchovy
+Goa Coast,February,29.6,35.1,101,5.2,2.1,Snapper
+Goa Coast,March,26.7,34.9,11,7.7,7.8,Mackerel
+Rameswaram,November,28.3,34.1,63,4.5,2.2,Pomfret
+Rameswaram,February,25.6,35.8,38,6.9,5.4,Pomfret
+Andaman Sea,September,29.0,34.5,168,6.3,1.6,Tuna
+Rameswaram,November,25.3,33.6,71,6.3,7.1,Pomfret
+Visakhapatnam,September,27.6,35.3,79,6.3,5.3,Seer Fish
+Rameswaram,October,25.1,34.9,86,5.9,4.5,Pomfret
+Goa Coast,June,29.5,34.1,81,6.5,7.4,Seer Fish
+Kerala Coast,April,25.4,34.1,52,4.8,9.9,Sardine
+Rameswaram,September,27.2,34.6,43,4.8,1.4,Pomfret
+Visakhapatnam,January,28.3,33.7,71,7.0,4.5,Seer Fish
+Andaman Sea,December,28.9,34.5,181,7.8,6.1,Tuna
+Kerala Coast,December,28.3,34.9,13,7.0,2.3,Mackerel
+Chennai Coast,March,26.8,33.4,52,4.6,2.1,Pomfret
+Kerala Coast,January,24.7,35.6,31,4.7,6.9,Anchovy
+Kerala Coast,September,24.5,33.0,47,5.6,6.1,Anchovy
+Visakhapatnam,October,31.3,34.8,190,4.8,1.9,Tuna
+Chennai Coast,May,25.1,34.0,55,6.3,6.6,Pomfret
+Kerala Coast,July,26.8,34.8,21,7.4,7.6,Sardine
+Kerala Coast,September,26.9,35.4,21,4.7,1.6,Sardine
+Kerala Coast,October,29.6,35.5,59,6.6,9.0,Mackerel
+Goa Coast,July,28.5,33.1,101,7.1,4.4,Snapper
+Rameswaram,May,27.4,34.5,37,6.8,7.7,Sardine
+Visakhapatnam,April,30.3,33.2,37,5.9,2.4,Seer Fish
+Chennai Coast,September,27.0,35.1,36,4.6,7.7,Pomfret
+Rameswaram,February,28.4,35.7,77,7.1,3.6,Sardine
+Rameswaram,August,27.3,34.1,81,6.7,4.5,Pomfret
+Chennai Coast,January,28.5,35.1,48,6.6,6.7,Pomfret
+Goa Coast,October,27.6,35.7,98,6.7,2.2,Snapper
+Visakhapatnam,April,30.7,33.4,172,5.7,1.3,Tuna
+Visakhapatnam,April,29.7,34.6,112,7.5,3.5,Tuna
+Rameswaram,July,28.6,35.2,75,6.5,6.8,Sardine
+Andaman Sea,December,29.4,35.2,155,5.7,8.2,Tuna
+Rameswaram,October,27.0,35.4,45,6.2,3.1,Sardine
+Chennai Coast,May,26.3,35.0,26,4.5,9.3,Anchovy
+Andaman Sea,January,27.5,34.1,90,6.4,8.7,Snapper
+Goa Coast,November,27.2,34.2,14,8.0,8.5,Mackerel
+Goa Coast,April,27.4,34.1,30,6.4,6.6,Mackerel
+Kerala Coast,September,24.6,34.2,38,6.1,1.2,Anchovy
+Goa Coast,July,29.9,33.3,80,7.6,8.0,Snapper
+Goa Coast,December,29.1,34.7,31,4.9,3.9,Seer Fish
+Goa Coast,February,29.7,33.7,53,4.6,1.2,Mackerel
+Goa Coast,September,27.0,35.1,32,5.2,2.0,Seer Fish
+Visakhapatnam,March,27.2,33.1,91,7.9,2.8,Seer Fish
+Kerala Coast,August,25.0,35.6,41,7.1,1.0,Sardine
+Kerala Coast,November,26.8,35.8,45,5.8,8.3,Anchovy
+Visakhapatnam,September,29.7,35.5,91,6.4,9.3,Seer Fish
+Kerala Coast,June,24.6,35.9,37,5.9,3.4,Anchovy
+Rameswaram,December,27.1,34.2,79,5.7,7.9,Sardine
+Rameswaram,September,25.8,34.9,46,7.2,5.8,Pomfret
+Goa Coast,April,27.5,33.8,37,6.9,1.3,Mackerel
+Goa Coast,January,29.0,34.9,56,4.9,6.2,Seer Fish
+Visakhapatnam,January,28.5,34.2,74,7.0,6.8,Seer Fish
+Rameswaram,January,27.5,35.1,46,5.5,8.6,Sardine
+Andaman Sea,October,27.3,36.0,52,6.7,3.7,Snapper
+Visakhapatnam,July,28.5,34.5,61,7.6,8.4,Seer Fish
+Andaman Sea,July,28.8,35.4,156,5.3,7.4,Tuna
+Kerala Coast,January,28.3,35.3,42,6.5,8.3,Mackerel
+Chennai Coast,January,27.6,34.8,19,6.2,9.5,Mackerel
+Rameswaram,January,27.7,35.5,61,5.3,7.4,Sardine
+Kerala Coast,May,26.3,35.2,56,7.4,7.3,Mackerel
+Andaman Sea,June,29.8,34.5,56,6.6,6.9,Snapper
+Goa Coast,April,30.6,35.9,50,5.8,4.3,Seer Fish
+Andaman Sea,September,29.3,35.5,100,6.2,1.9,Snapper
+Chennai Coast,June,27.4,35.0,72,7.0,5.3,Pomfret
+Andaman Sea,May,29.5,33.4,68,7.9,4.0,Snapper
+Goa Coast,October,28.5,33.9,63,7.9,4.7,Snapper
+Goa Coast,March,27.2,35.9,113,4.8,9.4,Snapper
+Rameswaram,July,25.4,34.1,49,7.6,3.8,Sardine
+Kerala Coast,April,25.8,33.9,76,5.8,1.4,Sardine
+Rameswaram,December,25.4,35.2,49,6.6,8.6,Sardine
+Andaman Sea,April,30.5,34.2,68,6.6,9.3,Tuna
+Kerala Coast,October,26.1,35.6,68,6.4,5.9,Sardine
+Visakhapatnam,December,28.1,34.7,131,5.7,2.6,Tuna
+Visakhapatnam,May,30.7,35.7,137,4.8,4.5,Tuna
+Kerala Coast,August,25.0,34.2,57,7.9,8.0,Sardine
+Kerala Coast,March,25.2,35.2,29,7.1,9.4,Anchovy
+Chennai Coast,February,25.9,35.2,50,5.8,3.9,Pomfret
+Kerala Coast,August,26.5,35.6,36,6.3,6.8,Anchovy
+Rameswaram,June,28.7,35.3,87,5.8,4.1,Pomfret
+Chennai Coast,January,26.0,34.5,26,5.8,4.0,Anchovy
+Goa Coast,December,27.0,34.0,64,6.4,1.6,Seer Fish
+Visakhapatnam,August,29.2,34.3,23,6.4,7.2,Seer Fish
+Kerala Coast,March,26.1,34.7,33,7.0,8.0,Mackerel
+Rameswaram,February,26.5,35.5,24,6.7,5.9,Sardine
+Visakhapatnam,March,29.8,33.5,65,5.9,9.3,Tuna
+Andaman Sea,January,31.9,33.8,71,4.6,8.9,Tuna
+Rameswaram,October,28.3,33.1,64,4.8,8.0,Pomfret
+Chennai Coast,March,25.4,33.6,45,6.1,9.6,Pomfret
+Andaman Sea,September,30.7,34.9,101,7.9,8.1,Tuna
+Goa Coast,May,28.8,33.8,19,6.4,5.3,Mackerel
+Kerala Coast,November,28.3,34.5,52,4.7,3.8,Mackerel
+Andaman Sea,May,28.9,33.7,158,5.0,2.9,Tuna
+Kerala Coast,August,27.5,35.3,49,5.1,6.3,Anchovy
+Rameswaram,May,26.8,34.4,74,5.9,5.2,Sardine
+Kerala Coast,August,28.0,34.5,31,6.4,1.2,Mackerel
+Visakhapatnam,January,30.5,33.9,159,5.9,2.5,Tuna
+Andaman Sea,August,27.7,33.9,83,4.6,3.3,Snapper
+Visakhapatnam,February,30.1,35.2,121,6.9,2.9,Tuna
+Andaman Sea,February,28.4,34.6,84,5.2,4.7,Snapper
+Andaman Sea,January,29.8,34.7,82,6.2,1.4,Snapper
+Kerala Coast,June,24.4,34.9,15,5.1,7.0,Anchovy
+Rameswaram,January,25.1,33.4,25,4.5,8.4,Sardine
+Kerala Coast,December,26.3,34.5,49,5.1,8.7,Mackerel
+Kerala Coast,April,27.7,34.3,34,7.9,5.6,Sardine
+Kerala Coast,September,27.0,35.5,27,6.3,3.0,Sardine
+Chennai Coast,December,27.0,33.5,81,6.7,5.6,Pomfret
+Andaman Sea,February,28.9,33.6,167,7.5,4.8,Tuna
+Andaman Sea,June,30.4,35.5,134,4.9,7.2,Tuna
+Chennai Coast,September,27.5,34.8,15,7.3,2.6,Mackerel
+Visakhapatnam,May,29.5,34.2,155,5.1,1.6,Tuna
+Rameswaram,July,25.4,34.3,49,4.6,1.0,Pomfret
+Chennai Coast,March,25.8,33.8,66,4.8,8.5,Pomfret
+Kerala Coast,March,28.0,33.4,39,7.0,2.0,Mackerel
+Rameswaram,July,26.9,35.5,57,5.9,6.3,Pomfret
+Kerala Coast,February,28.1,35.1,58,5.7,5.4,Mackerel
+Visakhapatnam,October,30.8,34.7,70,5.1,5.7,Seer Fish
+Kerala Coast,November,25.8,34.6,47,5.0,9.2,Sardine
+Goa Coast,November,27.4,35.6,18,4.5,7.2,Mackerel
+Goa Coast,October,28.3,35.3,71,4.8,3.2,Snapper
+Kerala Coast,February,24.2,33.6,35,6.3,3.2,Anchovy
+Chennai Coast,December,24.2,33.9,37,4.6,7.2,Anchovy
+Andaman Sea,October,29.1,33.1,95,6.1,10.0,Snapper
+Goa Coast,April,28.1,35.9,54,4.5,6.6,Snapper
+Chennai Coast,January,28.9,34.4,42,7.1,1.9,Pomfret
+Chennai Coast,May,27.2,35.7,88,5.6,7.4,Pomfret
+Chennai Coast,January,28.9,34.2,55,5.3,2.5,Mackerel
+Goa Coast,February,30.8,34.0,63,6.7,2.3,Seer Fish
+Visakhapatnam,April,30.3,33.8,143,6.9,4.0,Tuna
+Chennai Coast,March,27.4,34.8,85,4.9,1.6,Pomfret
+Chennai Coast,April,28.9,33.6,41,5.9,2.1,Pomfret
+Goa Coast,June,27.0,33.5,89,6.1,7.6,Snapper
+Rameswaram,September,25.6,35.3,36,6.5,4.7,Pomfret
+Kerala Coast,May,26.9,33.6,43,6.4,5.4,Anchovy
+Visakhapatnam,February,30.0,33.6,46,7.7,7.4,Seer Fish
+Chennai Coast,August,25.9,33.4,33,6.3,4.9,Anchovy
+Kerala Coast,May,26.3,34.6,16,6.7,4.4,Mackerel
+Chennai Coast,August,25.7,35.5,83,5.0,2.2,Pomfret
+Chennai Coast,June,26.8,33.3,48,5.9,5.8,Anchovy
+Chennai Coast,May,26.3,34.6,25,7.6,6.9,Anchovy
+Goa Coast,January,29.9,34.8,99,7.2,2.4,Seer Fish
+Kerala Coast,September,26.3,33.2,24,7.1,6.2,Mackerel
+Andaman Sea,August,27.1,34.8,70,7.8,3.1,Snapper
+Andaman Sea,May,27.7,34.9,105,7.8,6.3,Snapper
+Kerala Coast,April,25.0,34.1,27,5.2,6.7,Sardine
+Chennai Coast,May,26.9,34.8,79,6.6,7.7,Pomfret
+Kerala Coast,January,26.0,34.3,68,6.1,2.7,Sardine
+Chennai Coast,December,28.3,33.5,87,4.9,3.3,Pomfret
+Kerala Coast,November,25.7,33.4,60,6.1,8.4,Sardine
+Rameswaram,August,27.6,34.8,85,6.8,8.6,Pomfret
+Kerala Coast,May,25.3,35.3,27,7.2,5.0,Anchovy
+Rameswaram,January,25.5,35.5,75,5.4,8.7,Pomfret
+Kerala Coast,April,27.1,35.7,20,5.3,4.0,Anchovy
+Rameswaram,May,26.3,34.6,42,5.1,7.6,Sardine
+Kerala Coast,May,26.5,34.8,25,6.0,7.3,Anchovy
+Chennai Coast,March,26.2,34.6,25,4.9,1.8,Anchovy
+Visakhapatnam,August,27.8,33.1,65,5.2,8.4,Seer Fish
+Goa Coast,October,27.0,33.5,54,4.5,6.9,Mackerel
+Visakhapatnam,April,27.7,35.8,96,7.9,6.4,Seer Fish
+Chennai Coast,October,29.3,35.5,10,6.2,5.8,Mackerel
+Chennai Coast,October,25.6,35.0,43,7.1,2.8,Anchovy
+Goa Coast,October,28.8,34.5,52,5.9,6.0,Seer Fish
+Andaman Sea,January,30.4,34.7,197,5.3,2.8,Tuna
+Andaman Sea,December,31.0,35.6,110,6.3,6.1,Tuna
+Rameswaram,October,28.4,35.3,29,6.8,4.6,Sardine
+Chennai Coast,October,27.9,35.9,11,4.6,8.9,Anchovy
+Rameswaram,February,26.7,34.7,43,5.6,3.4,Pomfret
+Goa Coast,April,27.9,34.4,25,5.3,7.6,Seer Fish
+Kerala Coast,June,27.5,35.6,35,7.4,6.4,Mackerel
+Goa Coast,July,29.4,34.2,81,4.6,6.2,Seer Fish
+Chennai Coast,May,29.3,34.3,33,6.3,4.8,Mackerel
+Chennai Coast,October,28.0,33.4,41,5.0,6.1,Pomfret
+Chennai Coast,October,25.4,34.5,44,7.6,6.3,Pomfret
+Rameswaram,June,26.3,35.2,45,7.3,3.0,Pomfret
+Goa Coast,October,29.5,34.7,87,7.1,8.0,Snapper
+Goa Coast,December,28.9,33.7,46,4.7,5.9,Mackerel
+Chennai Coast,June,25.0,35.4,62,5.2,7.4,Pomfret
+Kerala Coast,August,25.1,35.6,74,6.4,5.3,Sardine
+Chennai Coast,June,28.7,34.8,70,6.8,4.2,Pomfret
+Goa Coast,February,28.2,34.0,48,4.7,1.6,Mackerel
+Andaman Sea,August,29.1,33.7,93,4.9,8.9,Tuna
+Rameswaram,August,26.7,34.1,72,7.0,1.5,Sardine
+Kerala Coast,June,27.3,33.0,52,6.8,2.3,Sardine
+Chennai Coast,November,27.1,34.7,34,6.0,8.1,Mackerel
+Andaman Sea,May,27.4,35.6,46,8.0,3.6,Snapper
+Visakhapatnam,August,30.7,34.4,163,7.3,3.0,Tuna
+Rameswaram,January,27.7,35.0,52,5.0,8.7,Pomfret
+Kerala Coast,February,28.9,35.9,68,6.0,7.2,Sardine
+Goa Coast,April,29.2,34.2,99,5.4,8.8,Snapper
+Chennai Coast,March,25.4,33.2,64,7.6,5.9,Pomfret
+Kerala Coast,November,25.5,35.8,35,5.4,2.2,Anchovy
+Goa Coast,June,29.0,34.9,32,5.8,5.2,Seer Fish
+Rameswaram,June,27.6,33.7,61,7.5,4.1,Pomfret
+Andaman Sea,August,31.6,34.1,67,4.5,2.4,Tuna
+Goa Coast,June,30.2,33.9,78,7.6,6.9,Seer Fish
+Kerala Coast,June,24.5,33.7,12,7.3,2.9,Anchovy
+Goa Coast,March,26.7,34.0,53,6.6,3.9,Mackerel
+Goa Coast,January,27.4,34.0,51,5.6,5.2,Seer Fish
+Visakhapatnam,February,29.4,33.5,55,7.3,8.2,Seer Fish
+Visakhapatnam,May,28.4,35.7,187,7.2,2.6,Tuna
+Visakhapatnam,December,27.7,34.7,75,6.3,2.9,Seer Fish
+Goa Coast,September,26.2,35.3,19,7.6,6.9,Mackerel
+Kerala Coast,October,27.2,33.0,75,5.9,6.9,Sardine
+Goa Coast,December,28.5,35.5,64,4.5,5.1,Snapper
+Visakhapatnam,August,29.2,33.8,88,5.6,2.6,Seer Fish
+Kerala Coast,April,27.3,35.5,26,5.7,7.3,Mackerel
+Kerala Coast,September,26.1,34.5,30,7.9,3.8,Sardine
+Andaman Sea,November,29.4,33.2,88,6.5,2.4,Snapper
+Goa Coast,December,29.5,33.3,42,7.1,4.0,Seer Fish
+Rameswaram,July,27.0,33.4,29,4.6,9.8,Sardine
+Chennai Coast,February,26.8,34.9,61,4.7,5.8,Pomfret
+Kerala Coast,December,28.5,35.7,42,7.0,9.1,Mackerel
+Visakhapatnam,October,31.0,35.0,73,6.0,3.2,Seer Fish
+Visakhapatnam,February,31.2,35.5,75,6.1,6.4,Tuna
+Goa Coast,November,28.4,35.0,51,7.8,1.1,Snapper
+Rameswaram,June,27.5,34.1,55,6.4,5.4,Sardine
+Andaman Sea,March,30.0,34.2,101,7.3,2.7,Snapper
+Visakhapatnam,June,30.0,34.9,30,6.5,8.3,Seer Fish
+Kerala Coast,April,28.6,34.8,51,6.8,6.3,Mackerel
+Goa Coast,February,29.1,34.6,118,7.0,8.4,Snapper
+Visakhapatnam,October,30.2,35.4,109,4.5,2.0,Tuna
+Andaman Sea,July,28.2,35.3,109,4.9,6.1,Snapper
+Rameswaram,February,27.9,35.3,71,6.3,2.0,Pomfret
+Chennai Coast,February,26.6,34.7,53,6.0,3.7,Mackerel
+Goa Coast,April,29.0,35.8,90,5.1,6.6,Snapper
+Visakhapatnam,December,29.8,33.1,87,5.8,2.7,Seer Fish
+Andaman Sea,January,31.9,33.9,180,6.6,8.4,Tuna
+Goa Coast,February,28.2,33.5,46,6.5,7.6,Snapper
+Visakhapatnam,July,29.4,34.0,94,7.7,1.4,Tuna
+Chennai Coast,June,26.5,35.6,40,7.0,1.8,Anchovy
+Visakhapatnam,December,30.6,33.7,103,7.3,3.6,Tuna
+Kerala Coast,April,26.7,33.9,26,7.9,7.0,Sardine
+Kerala Coast,June,28.6,34.8,24,4.8,8.0,Mackerel
+Goa Coast,December,27.9,34.9,112,7.7,3.3,Snapper
+Goa Coast,August,29.1,35.8,88,7.3,3.0,Seer Fish
+Andaman Sea,December,27.5,33.4,75,7.2,8.3,Snapper
+Visakhapatnam,August,30.1,35.0,57,7.8,4.4,Seer Fish
+Visakhapatnam,July,28.2,34.8,56,4.9,3.8,Seer Fish
+Visakhapatnam,April,30.3,33.8,50,6.7,3.2,Seer Fish
+Andaman Sea,April,31.8,33.8,111,6.2,8.7,Tuna
+Rameswaram,April,27.7,33.5,70,7.3,6.7,Sardine
+Kerala Coast,March,27.8,35.5,24,4.6,1.2,Anchovy
+Andaman Sea,September,29.6,34.2,47,7.5,3.5,Snapper
+Chennai Coast,November,26.3,35.7,44,4.6,2.0,Pomfret
+Goa Coast,August,26.2,35.6,49,6.8,5.8,Mackerel
+Chennai Coast,May,27.5,34.1,43,5.1,6.1,Anchovy
+Chennai Coast,September,26.1,35.6,18,6.4,5.4,Anchovy
+Goa Coast,February,26.3,34.5,38,7.2,3.1,Mackerel
+Chennai Coast,September,29.3,33.0,57,7.1,2.5,Mackerel
+Goa Coast,February,29.8,35.3,91,7.1,2.7,Seer Fish
+Rameswaram,May,27.8,34.2,27,5.3,3.1,Sardine
+Chennai Coast,March,27.1,35.3,47,7.2,1.4,Mackerel
+Andaman Sea,November,30.4,34.7,109,7.7,2.8,Tuna
+Rameswaram,April,29.0,36.0,25,5.4,2.7,Sardine
+Rameswaram,September,27.0,35.1,48,6.1,8.3,Pomfret
+Chennai Coast,April,26.2,34.8,36,7.9,4.7,Anchovy
+Kerala Coast,February,25.6,33.1,42,7.8,1.7,Anchovy
+Kerala Coast,April,27.0,35.7,12,6.0,6.2,Mackerel
+Rameswaram,February,25.9,35.3,75,6.7,8.1,Sardine
+Visakhapatnam,May,29.8,34.7,141,5.4,2.5,Tuna
+Chennai Coast,July,25.9,34.2,61,4.6,3.1,Pomfret
+Rameswaram,February,25.9,34.8,23,4.6,1.6,Sardine
+Visakhapatnam,May,30.3,34.3,79,6.2,6.1,Seer Fish
+Kerala Coast,October,28.8,35.3,36,6.7,4.4,Sardine
+Rameswaram,February,28.6,35.1,49,4.5,1.8,Pomfret
+Andaman Sea,July,29.5,34.8,103,5.4,6.3,Snapper
+Kerala Coast,April,24.1,34.6,36,5.5,2.6,Anchovy
+Andaman Sea,January,31.2,34.7,194,5.0,1.5,Tuna
+Kerala Coast,June,26.4,33.9,67,5.8,9.5,Sardine
+Goa Coast,May,28.6,34.4,50,6.5,5.6,Seer Fish
+Goa Coast,July,26.4,33.3,18,7.8,2.2,Mackerel
+Visakhapatnam,March,28.7,34.0,79,5.4,9.9,Tuna
+Rameswaram,August,26.1,34.1,56,5.6,9.9,Sardine
+Chennai Coast,August,25.3,35.3,11,5.3,5.0,Anchovy
+Goa Coast,June,27.0,36.0,34,5.8,9.3,Mackerel
+Andaman Sea,April,28.5,35.2,109,5.6,8.0,Tuna
+Chennai Coast,May,27.4,33.3,16,5.2,7.1,Anchovy
+Visakhapatnam,September,28.2,35.8,55,7.6,4.2,Seer Fish
+Andaman Sea,August,29.6,34.4,65,6.9,8.7,Snapper
+Kerala Coast,June,28.7,33.9,34,7.2,5.7,Mackerel
+Andaman Sea,June,31.1,33.7,141,7.9,2.9,Tuna
+Visakhapatnam,October,31.3,34.4,124,7.1,3.0,Tuna
+Rameswaram,May,27.3,33.9,61,7.0,4.1,Pomfret
+Andaman Sea,November,29.3,34.0,46,7.0,7.6,Snapper
+Rameswaram,August,26.7,33.5,64,6.1,5.7,Sardine
+Kerala Coast,March,27.1,35.8,31,5.4,5.0,Anchovy
+Chennai Coast,August,25.2,34.2,47,7.8,9.6,Anchovy
+Goa Coast,July,30.9,33.4,73,7.9,7.1,Seer Fish
+Goa Coast,May,27.0,35.3,57,7.5,1.8,Mackerel
+Kerala Coast,October,29.6,33.7,57,4.6,9.3,Mackerel
+Rameswaram,December,26.1,33.1,37,5.3,7.2,Pomfret
+Visakhapatnam,March,28.7,33.0,184,5.3,3.2,Tuna
+Chennai Coast,November,28.6,36.0,15,5.9,9.0,Mackerel
+Goa Coast,November,27.0,34.8,16,5.1,7.0,Mackerel
+Goa Coast,January,28.2,36.0,58,6.4,7.4,Mackerel
+Kerala Coast,January,24.1,35.5,38,5.2,2.2,Anchovy
+Rameswaram,September,27.5,34.3,78,4.8,2.2,Pomfret
+Andaman Sea,January,29.6,34.1,117,6.6,4.2,Snapper
+Rameswaram,March,27.5,33.9,75,4.9,5.2,Sardine
+Andaman Sea,December,28.2,34.9,52,7.7,9.9,Snapper
+Kerala Coast,December,26.6,33.7,50,6.9,2.4,Mackerel
+Visakhapatnam,December,29.3,34.3,113,7.1,1.6,Tuna
+Kerala Coast,January,26.8,33.5,28,4.9,3.6,Sardine
+Kerala Coast,March,26.9,35.4,24,6.4,2.2,Anchovy
+Goa Coast,April,28.1,35.6,92,4.9,8.1,Snapper
+Chennai Coast,May,28.3,33.5,53,7.1,1.7,Mackerel
+Chennai Coast,June,27.8,35.9,80,6.5,6.7,Pomfret
+Kerala Coast,February,28.1,34.5,28,5.5,2.4,Sardine
+Visakhapatnam,November,28.1,34.0,34,6.2,5.8,Seer Fish
+Chennai Coast,August,28.8,36.0,52,6.8,2.7,Pomfret
+Kerala Coast,April,25.3,33.4,32,6.2,6.9,Sardine
+Rameswaram,September,29.0,34.8,65,5.2,1.5,Sardine
+Kerala Coast,October,25.2,33.9,50,5.9,2.5,Anchovy
+Kerala Coast,May,27.0,33.6,58,5.0,3.7,Sardine
+Chennai Coast,May,25.4,35.8,40,7.1,9.5,Anchovy
+Goa Coast,May,27.4,33.8,40,6.2,3.3,Snapper
+Rameswaram,July,27.5,35.3,30,6.7,6.9,Sardine
+Kerala Coast,May,27.9,35.3,31,5.7,2.8,Anchovy
+Andaman Sea,September,30.6,35.6,184,6.9,3.0,Tuna
+Andaman Sea,September,29.7,33.2,198,7.3,7.4,Tuna
+Visakhapatnam,October,31.5,33.8,124,6.1,8.2,Tuna
+Kerala Coast,September,27.7,35.7,45,6.8,4.8,Sardine
+Chennai Coast,January,28.5,34.4,82,7.2,4.2,Pomfret
+Kerala Coast,October,29.7,33.3,36,6.6,9.9,Mackerel
+Kerala Coast,April,28.8,35.3,71,7.1,8.7,Sardine
+Andaman Sea,December,28.4,34.5,64,7.3,5.7,Snapper
+Kerala Coast,May,24.0,34.7,10,7.4,2.5,Anchovy
+Chennai Coast,October,27.7,34.4,46,4.9,7.2,Anchovy
+Kerala Coast,April,25.3,35.6,15,5.9,3.4,Anchovy
+Rameswaram,October,28.6,34.8,37,5.6,8.3,Pomfret
+Kerala Coast,February,25.8,34.7,57,8.0,6.9,Sardine
+Goa Coast,June,28.7,34.4,86,4.9,8.8,Snapper
+Chennai Coast,February,26.9,33.2,77,4.7,1.6,Pomfret
+Kerala Coast,June,25.3,35.9,78,5.1,6.3,Sardine
+Goa Coast,November,28.7,35.6,48,5.3,6.2,Mackerel
+Rameswaram,August,27.4,33.6,32,5.6,3.4,Sardine
+Goa Coast,April,27.1,35.1,48,7.2,4.1,Mackerel
+Andaman Sea,May,29.4,34.8,126,7.1,4.4,Tuna
+Chennai Coast,June,28.8,33.1,88,7.7,9.2,Pomfret
+Goa Coast,April,26.6,35.8,51,4.7,1.8,Mackerel
+Kerala Coast,November,26.3,35.1,35,6.5,7.6,Mackerel
+Goa Coast,September,28.3,34.5,23,7.3,2.8,Mackerel
+Chennai Coast,February,28.5,35.0,35,5.1,2.1,Mackerel
+Chennai Coast,September,28.5,34.2,42,5.7,5.8,Mackerel
+Kerala Coast,September,28.9,35.8,13,4.7,9.0,Mackerel
+Goa Coast,July,28.2,33.8,70,6.5,4.8,Seer Fish
+Visakhapatnam,November,30.7,33.9,116,6.6,9.2,Tuna
+Goa Coast,December,27.4,33.6,60,5.2,6.6,Snapper
+Kerala Coast,November,24.8,35.6,21,7.5,2.8,Anchovy
+Rameswaram,January,25.2,33.3,77,6.4,3.7,Pomfret
+Rameswaram,September,26.7,34.3,74,6.3,9.6,Sardine
+Rameswaram,July,27.2,33.3,38,7.6,7.6,Sardine
+Chennai Coast,September,25.1,34.1,11,7.8,5.0,Anchovy
+Chennai Coast,March,28.3,35.0,59,5.0,3.5,Mackerel
+Visakhapatnam,November,29.6,35.1,21,5.4,2.5,Seer Fish
+Chennai Coast,November,26.4,35.9,54,5.2,3.7,Mackerel
+Goa Coast,October,27.2,35.1,44,8.0,1.6,Mackerel
+Andaman Sea,February,31.5,34.0,143,5.0,4.2,Tuna
+Rameswaram,July,27.8,33.2,45,6.4,6.8,Sardine
+Rameswaram,July,27.4,34.2,39,7.4,2.1,Pomfret
+Andaman Sea,November,27.9,34.0,105,4.6,1.0,Snapper
+Kerala Coast,October,27.6,35.8,39,4.8,5.9,Mackerel
+Goa Coast,June,27.5,34.4,112,7.6,7.1,Snapper
+Visakhapatnam,August,28.9,33.9,64,6.0,6.4,Tuna
+Rameswaram,October,27.9,34.6,34,7.8,1.6,Sardine
+Visakhapatnam,December,31.7,33.4,106,6.4,1.6,Tuna
+Chennai Coast,May,26.9,34.3,26,6.2,5.1,Anchovy
+Chennai Coast,August,27.4,35.5,58,4.7,7.6,Mackerel
+Andaman Sea,March,27.6,33.5,82,7.4,8.1,Snapper
+Chennai Coast,November,27.9,33.7,33,5.3,4.4,Anchovy
+Andaman Sea,January,30.1,33.6,122,5.6,3.1,Tuna
+Visakhapatnam,July,30.3,33.2,87,6.2,7.1,Seer Fish
+Goa Coast,February,30.8,34.7,71,7.0,7.7,Seer Fish
+Kerala Coast,September,28.7,33.2,33,5.6,2.4,Sardine
+Rameswaram,November,28.2,35.3,33,7.6,4.9,Sardine
+Visakhapatnam,September,30.0,35.7,100,7.9,6.3,Tuna
+Kerala Coast,April,27.5,35.7,49,4.5,5.9,Anchovy
+Goa Coast,October,29.6,34.8,25,7.5,4.4,Mackerel
+Kerala Coast,June,28.2,35.9,49,7.5,3.5,Sardine
+Andaman Sea,October,27.7,35.9,99,6.6,8.5,Snapper
+Chennai Coast,January,25.3,33.8,39,7.8,9.8,Anchovy
+Andaman Sea,November,29.2,33.5,143,7.4,1.4,Tuna
+Rameswaram,May,28.7,33.4,87,7.7,9.1,Pomfret
+Andaman Sea,May,29.0,36.0,87,5.9,5.1,Tuna
+Goa Coast,February,28.5,34.1,38,6.6,8.4,Mackerel
+Visakhapatnam,April,30.8,35.9,49,6.1,9.6,Seer Fish
+Andaman Sea,January,29.8,33.7,164,7.7,7.4,Tuna
+Visakhapatnam,August,29.0,33.4,40,5.8,8.7,Seer Fish
+Kerala Coast,February,27.0,35.3,15,6.8,6.8,Mackerel
+Goa Coast,June,29.3,34.6,51,6.9,1.9,Snapper
+Chennai Coast,September,29.1,33.4,29,5.8,3.2,Mackerel
+Rameswaram,February,28.8,34.7,35,5.5,1.1,Sardine
+Andaman Sea,September,29.3,34.3,71,7.2,1.5,Snapper
+Visakhapatnam,May,28.1,33.2,68,5.3,2.8,Tuna
+Chennai Coast,September,27.4,33.2,37,5.8,2.5,Pomfret
+Kerala Coast,March,27.9,34.4,63,7.3,9.1,Sardine
+Kerala Coast,September,25.7,34.1,21,5.1,3.3,Anchovy
+Visakhapatnam,November,28.6,35.3,56,5.5,2.1,Seer Fish
+Goa Coast,May,28.6,33.6,13,7.2,5.7,Mackerel
+Rameswaram,May,27.5,35.0,47,7.1,8.3,Pomfret
+Chennai Coast,October,26.5,33.6,76,6.6,8.3,Pomfret
+Kerala Coast,April,28.2,33.4,52,6.1,1.1,Sardine
+Goa Coast,February,29.7,33.9,93,7.6,4.5,Snapper
+Chennai Coast,August,27.1,35.4,40,7.6,7.3,Pomfret
+Goa Coast,June,29.3,34.6,71,4.6,2.8,Snapper
+Andaman Sea,August,29.6,35.4,179,5.3,5.3,Tuna
+Rameswaram,June,27.3,33.9,45,6.2,7.3,Pomfret
+Goa Coast,September,29.1,35.4,53,5.5,2.5,Seer Fish
+Goa Coast,May,27.3,35.2,33,7.6,6.4,Seer Fish
+Rameswaram,June,27.9,35.8,65,5.0,8.9,Sardine
+Goa Coast,December,27.7,33.5,65,5.1,6.7,Snapper
+Chennai Coast,August,27.4,33.0,70,6.5,6.1,Pomfret
+Goa Coast,May,29.9,35.6,91,6.8,2.1,Seer Fish
+Andaman Sea,May,30.8,34.2,84,5.9,3.4,Tuna
+Goa Coast,December,28.2,34.0,77,6.9,2.9,Seer Fish
+Goa Coast,February,28.7,34.2,61,7.1,3.3,Seer Fish
+Andaman Sea,July,28.1,34.2,183,7.9,8.4,Tuna
+Andaman Sea,January,28.1,33.6,107,6.7,1.2,Snapper
+Chennai Coast,April,26.2,34.3,72,7.7,3.6,Pomfret
+Chennai Coast,May,27.5,34.4,38,5.3,4.3,Pomfret
+Kerala Coast,September,27.8,33.8,18,8.0,8.9,Anchovy
+Kerala Coast,November,27.3,33.7,35,7.4,7.5,Sardine
+Goa Coast,August,28.5,34.5,54,5.4,7.4,Seer Fish
+Visakhapatnam,January,28.6,35.5,98,5.8,7.8,Seer Fish
+Andaman Sea,May,28.4,33.1,77,5.2,9.8,Tuna
+Goa Coast,July,30.6,33.1,20,5.3,5.1,Seer Fish
+Visakhapatnam,February,30.9,35.8,92,7.5,1.5,Seer Fish
+Visakhapatnam,February,30.1,34.6,69,5.5,6.7,Tuna
+Chennai Coast,October,26.3,33.3,15,5.1,2.5,Anchovy
+Goa Coast,December,29.2,33.3,84,5.2,2.2,Snapper
+Goa Coast,September,30.6,35.5,25,6.8,3.9,Seer Fish
+Rameswaram,August,25.5,35.8,49,5.5,4.0,Pomfret
+Andaman Sea,February,28.2,34.2,159,6.3,1.7,Tuna
+Goa Coast,May,27.3,33.2,106,5.8,4.7,Snapper
+Andaman Sea,June,27.8,33.9,116,7.4,5.1,Snapper
+Goa Coast,December,26.9,35.4,47,5.4,9.0,Mackerel
+Andaman Sea,December,30.7,34.6,147,5.9,7.3,Tuna
+Visakhapatnam,November,29.5,33.4,61,5.8,7.8,Tuna
+Andaman Sea,July,27.6,35.7,84,6.9,2.5,Snapper
+Visakhapatnam,March,30.0,33.0,117,7.1,7.1,Tuna
+Chennai Coast,March,26.7,33.3,85,7.9,9.6,Pomfret
+Chennai Coast,March,28.7,33.1,50,7.2,8.6,Pomfret
+Rameswaram,September,25.8,34.1,30,5.7,9.6,Sardine
+Chennai Coast,May,25.3,34.0,28,6.7,7.1,Anchovy
+Kerala Coast,November,26.4,35.5,39,5.2,2.7,Anchovy
+Andaman Sea,August,28.9,33.0,200,6.9,4.6,Tuna
+Kerala Coast,April,26.6,34.0,56,7.5,2.7,Sardine
+Goa Coast,May,28.5,34.8,82,7.0,6.7,Snapper
+Andaman Sea,June,31.8,35.7,199,6.8,1.6,Tuna
+Goa Coast,December,29.0,34.9,113,5.0,5.8,Snapper
+Chennai Coast,November,27.1,35.0,42,5.0,9.8,Anchovy
+Rameswaram,August,25.6,33.4,79,6.1,8.1,Sardine
+Goa Coast,May,27.5,34.7,27,7.9,8.8,Seer Fish
+Rameswaram,February,28.2,34.7,20,6.5,1.0,Sardine
+Chennai Coast,December,25.9,34.2,66,5.4,2.0,Pomfret
+Rameswaram,September,25.6,35.2,59,5.5,8.5,Pomfret
+Visakhapatnam,January,30.0,34.7,114,7.9,2.2,Tuna
+Chennai Coast,May,27.6,35.0,26,4.5,1.1,Mackerel
+Chennai Coast,May,25.1,35.8,46,6.2,9.6,Anchovy
+Visakhapatnam,December,29.3,34.5,109,7.2,9.7,Tuna
+Goa Coast,April,26.3,34.5,60,6.4,2.7,Mackerel
+Kerala Coast,March,26.7,33.1,80,6.0,2.1,Sardine
+Rameswaram,October,27.6,34.7,80,7.5,6.6,Sardine
+Kerala Coast,October,24.2,34.5,43,5.0,1.6,Anchovy
+Rameswaram,April,28.1,34.1,20,7.0,10.0,Sardine
+Visakhapatnam,April,30.4,35.5,34,5.8,9.2,Seer Fish
+Goa Coast,February,29.4,34.3,81,6.1,6.5,Snapper
+Kerala Coast,January,27.7,36.0,25,6.1,4.6,Mackerel
+Chennai Coast,September,25.2,34.1,24,4.6,5.6,Anchovy
+Rameswaram,January,26.7,34.8,73,5.4,7.1,Pomfret
+Kerala Coast,December,25.5,34.0,22,5.4,7.9,Sardine
+Visakhapatnam,April,29.0,35.6,163,6.8,5.5,Tuna
+Andaman Sea,May,28.6,33.4,88,7.4,8.2,Snapper
+Rameswaram,December,25.4,34.2,35,6.4,4.7,Pomfret
+Chennai Coast,April,28.3,33.4,33,7.5,5.5,Pomfret
+Visakhapatnam,June,27.3,33.5,51,6.9,9.2,Seer Fish
+Visakhapatnam,November,30.5,35.4,73,5.9,8.9,Seer Fish
+Kerala Coast,October,26.0,34.2,29,7.4,8.8,Anchovy
+Visakhapatnam,February,31.9,33.8,151,5.7,3.4,Tuna
+Goa Coast,May,28.4,33.7,76,5.8,6.5,Snapper
+Rameswaram,December,25.8,33.5,81,7.9,5.4,Pomfret
+Kerala Coast,February,26.2,34.0,29,6.0,4.3,Sardine
+Kerala Coast,January,29.7,33.6,53,7.5,8.4,Mackerel
+Kerala Coast,January,29.4,34.3,37,6.4,2.6,Mackerel
+Chennai Coast,March,25.5,35.2,23,6.5,1.5,Anchovy
+Chennai Coast,November,25.5,35.4,84,6.2,7.5,Pomfret
+Goa Coast,September,30.3,35.8,43,4.7,5.6,Seer Fish
+Visakhapatnam,June,27.4,35.1,99,7.0,6.7,Seer Fish
+Kerala Coast,September,27.3,33.9,32,5.5,6.7,Anchovy
+Rameswaram,October,25.5,34.5,30,5.4,4.9,Pomfret
+Rameswaram,April,27.7,33.3,28,6.3,3.0,Sardine
+Kerala Coast,July,26.2,35.1,30,7.9,5.6,Sardine
+Rameswaram,September,25.6,35.3,87,4.9,7.2,Pomfret
+Rameswaram,December,28.3,35.0,71,7.1,7.5,Sardine
+Goa Coast,January,29.1,33.4,109,6.4,2.7,Snapper
+Chennai Coast,December,27.9,34.5,45,5.0,9.8,Anchovy
+Kerala Coast,February,27.0,35.2,46,6.3,2.6,Anchovy
+Andaman Sea,December,31.0,35.6,66,4.8,8.8,Tuna
+Chennai Coast,May,27.9,33.5,33,7.2,3.7,Anchovy
+Chennai Coast,November,27.2,33.7,32,7.4,8.0,Anchovy
+Kerala Coast,December,28.8,33.3,67,5.4,3.8,Sardine
+Goa Coast,January,26.3,33.4,58,7.1,5.2,Mackerel
+Goa Coast,May,28.2,33.3,11,6.0,7.7,Mackerel
+Goa Coast,November,30.0,33.5,119,7.5,4.3,Snapper
+Goa Coast,June,27.1,34.7,104,4.6,7.9,Snapper
+Rameswaram,October,25.8,33.3,77,6.4,1.1,Pomfret
+Visakhapatnam,November,28.4,34.6,124,6.6,5.2,Tuna
+Chennai Coast,June,27.2,33.4,40,4.6,2.7,Anchovy
+Visakhapatnam,September,28.4,35.9,71,7.6,3.6,Seer Fish
+Rameswaram,July,28.8,33.6,55,7.7,7.2,Pomfret
+Goa Coast,September,27.7,33.6,40,4.6,4.4,Seer Fish
+Andaman Sea,September,30.9,33.9,107,7.6,8.5,Tuna
+Chennai Coast,October,26.9,33.6,68,4.9,6.8,Pomfret
+Kerala Coast,April,26.5,34.7,63,6.5,3.9,Sardine
+Kerala Coast,November,27.5,34.1,28,6.8,5.9,Sardine
+Goa Coast,April,29.1,35.7,94,6.1,4.5,Snapper
+Goa Coast,November,29.3,34.1,113,6.6,7.8,Snapper
+Visakhapatnam,March,27.2,34.3,36,6.6,10.0,Seer Fish
+Goa Coast,July,28.0,34.0,60,7.3,3.5,Snapper
+Chennai Coast,October,26.0,35.1,48,5.2,3.0,Anchovy
+Goa Coast,April,29.4,33.3,75,5.3,7.3,Snapper
+Rameswaram,August,28.8,35.5,77,4.6,3.9,Sardine
+Chennai Coast,February,25.1,33.6,32,6.9,7.3,Anchovy
+Kerala Coast,April,29.0,35.8,22,4.5,6.7,Sardine
+Kerala Coast,December,27.4,35.4,11,5.7,1.0,Mackerel
+Kerala Coast,July,26.6,35.1,51,7.4,7.0,Mackerel
+Andaman Sea,March,28.8,35.2,183,7.6,4.9,Tuna
+Visakhapatnam,August,30.1,34.0,101,5.6,9.8,Tuna
+Chennai Coast,July,28.3,36.0,64,6.4,1.7,Pomfret
+Goa Coast,December,28.8,33.1,89,7.8,6.7,Snapper
+Andaman Sea,July,31.7,35.1,78,6.7,2.9,Tuna
+Andaman Sea,June,28.9,35.8,106,7.4,1.8,Snapper
+Chennai Coast,August,27.3,35.0,58,4.6,6.6,Pomfret
+Chennai Coast,July,24.7,35.8,22,4.7,4.2,Anchovy
+Andaman Sea,July,29.9,35.0,95,7.3,4.8,Tuna
+Goa Coast,August,27.1,34.0,37,6.1,2.9,Mackerel
+Kerala Coast,June,26.6,36.0,10,4.7,2.3,Anchovy
+Chennai Coast,December,30.0,35.1,32,5.3,9.4,Mackerel
+Andaman Sea,January,28.5,34.2,173,7.8,7.9,Tuna
+Andaman Sea,August,28.5,35.9,147,7.1,7.0,Tuna
+Chennai Coast,December,24.7,34.3,29,4.5,7.7,Anchovy
+Goa Coast,July,28.1,34.1,29,7.4,5.1,Seer Fish
+Chennai Coast,November,28.3,34.2,83,5.6,8.5,Pomfret
+Kerala Coast,June,27.3,34.4,21,5.7,1.5,Sardine
+Andaman Sea,June,29.2,33.6,58,5.8,2.8,Snapper
+Kerala Coast,April,25.7,35.9,30,5.7,7.6,Anchovy
+Visakhapatnam,November,28.4,34.4,21,5.6,4.6,Seer Fish
+Visakhapatnam,February,29.0,34.5,67,7.1,8.6,Seer Fish
+Rameswaram,September,28.2,33.6,32,5.6,6.8,Sardine
+Visakhapatnam,July,31.1,33.2,187,4.9,1.4,Tuna
+Rameswaram,February,26.2,33.4,70,7.3,6.4,Pomfret
+Kerala Coast,December,25.4,35.2,35,5.4,2.7,Sardine
+Goa Coast,August,27.9,34.4,114,5.8,9.4,Snapper
+Visakhapatnam,November,28.5,34.9,123,4.5,4.2,Tuna
+Andaman Sea,March,29.9,34.5,104,5.7,8.3,Snapper
+Kerala Coast,April,27.6,35.8,54,6.3,4.5,Mackerel
+Goa Coast,October,29.8,33.2,84,6.2,3.7,Snapper
+Kerala Coast,March,27.9,35.3,48,6.5,3.5,Anchovy
+Kerala Coast,May,28.7,34.8,26,5.3,6.3,Sardine
+Goa Coast,February,28.2,33.1,84,5.5,9.2,Snapper
+Andaman Sea,September,31.8,35.9,130,7.5,4.2,Tuna
+Kerala Coast,April,27.9,35.1,28,7.1,2.1,Mackerel
+Chennai Coast,February,25.0,34.6,64,7.0,7.1,Pomfret
+Chennai Coast,December,25.5,33.2,74,5.1,3.3,Pomfret
+Chennai Coast,January,26.7,35.1,51,7.6,9.1,Pomfret
+Chennai Coast,March,26.2,34.8,37,5.5,3.8,Mackerel
+Kerala Coast,February,28.8,35.4,41,4.5,3.2,Sardine
+Goa Coast,February,27.5,35.7,10,6.9,2.3,Mackerel
+Chennai Coast,May,28.5,34.6,51,6.7,3.1,Mackerel
+Andaman Sea,February,28.3,34.9,49,6.4,7.0,Snapper
+Goa Coast,November,28.1,36.0,93,6.7,3.4,Seer Fish
+Goa Coast,August,28.7,33.6,34,4.7,4.4,Mackerel
+Rameswaram,December,25.4,33.0,35,5.7,1.1,Sardine
+Goa Coast,January,27.2,33.2,43,5.4,6.9,Snapper
+Kerala Coast,December,28.0,34.5,27,6.6,3.5,Anchovy
+Andaman Sea,October,29.2,34.3,63,4.9,2.4,Tuna
+Goa Coast,April,28.4,35.7,18,6.9,4.7,Mackerel
+Chennai Coast,June,28.5,33.1,45,5.9,5.3,Pomfret
+Goa Coast,May,27.1,34.9,114,7.5,3.5,Snapper
+Chennai Coast,February,27.5,35.3,75,4.9,1.1,Pomfret
+Goa Coast,April,27.4,34.1,28,5.6,6.5,Mackerel
+Goa Coast,March,27.8,33.5,35,7.7,3.4,Seer Fish
+Chennai Coast,August,27.4,35.3,47,6.0,1.4,Pomfret
+Visakhapatnam,February,30.2,34.8,152,5.7,1.1,Tuna
+Visakhapatnam,September,31.7,34.0,111,6.0,1.7,Tuna
+Andaman Sea,March,27.6,34.8,100,7.6,6.7,Snapper
+Rameswaram,September,26.9,36.0,68,4.5,8.9,Sardine
+Goa Coast,January,27.9,34.1,75,5.1,8.7,Snapper
+Andaman Sea,July,31.4,34.2,103,4.9,5.6,Tuna
+Goa Coast,January,29.5,35.3,27,6.1,6.0,Seer Fish
+Andaman Sea,November,28.8,33.9,56,4.9,1.1,Snapper
+Visakhapatnam,July,29.0,35.3,191,5.5,7.4,Tuna
+Visakhapatnam,July,28.3,34.3,81,6.3,2.4,Seer Fish
+Andaman Sea,October,29.5,33.2,94,7.4,6.3,Snapper
+Kerala Coast,March,24.1,34.2,21,6.6,5.5,Anchovy
+Rameswaram,August,28.9,34.4,29,4.9,4.9,Sardine
+Andaman Sea,July,27.3,34.4,91,5.1,4.1,Snapper
+Chennai Coast,October,27.4,34.8,59,5.7,9.7,Pomfret
+Andaman Sea,January,28.5,35.2,94,8.0,9.0,Tuna
+Chennai Coast,September,29.8,35.2,20,7.6,9.6,Mackerel
+Kerala Coast,June,26.7,34.2,20,7.3,9.1,Mackerel
+Chennai Coast,February,26.4,33.7,49,7.9,4.1,Anchovy
+Visakhapatnam,May,31.5,34.5,165,6.4,3.0,Tuna
+Kerala Coast,May,25.3,33.1,50,7.9,8.0,Sardine
+Visakhapatnam,December,30.7,34.1,54,5.0,6.6,Seer Fish
+Chennai Coast,February,28.1,35.1,11,6.6,8.0,Mackerel
+Andaman Sea,July,30.4,33.6,73,7.6,8.8,Tuna
+Visakhapatnam,August,30.8,34.7,151,6.7,3.2,Tuna
+Kerala Coast,December,26.3,33.2,32,6.2,6.4,Sardine
+Goa Coast,December,27.7,34.4,30,5.5,4.4,Mackerel
+Chennai Coast,December,26.6,34.3,57,7.0,1.8,Mackerel
+Goa Coast,March,29.7,35.8,23,5.5,8.3,Mackerel
+Kerala Coast,May,24.8,33.2,36,5.4,6.4,Anchovy
+Chennai Coast,January,24.0,35.8,31,5.1,1.8,Anchovy
+Rameswaram,October,28.3,34.7,50,4.8,7.4,Sardine
+Goa Coast,October,27.8,33.2,90,7.0,8.3,Snapper
+Visakhapatnam,April,27.1,34.5,30,7.4,8.7,Seer Fish
+Rameswaram,July,28.5,34.6,76,7.9,7.4,Sardine
+Rameswaram,May,28.0,33.8,52,5.7,7.0,Pomfret
+Chennai Coast,July,26.9,35.0,13,6.3,1.0,Anchovy
+Kerala Coast,May,24.0,35.7,43,6.0,2.0,Anchovy
+Kerala Coast,January,24.1,34.4,50,5.1,6.0,Anchovy
+Chennai Coast,June,26.7,34.4,45,5.6,2.7,Anchovy
+Chennai Coast,January,25.0,33.4,34,7.1,1.6,Anchovy
+Goa Coast,July,30.8,33.4,41,5.5,6.0,Seer Fish
+Rameswaram,October,25.2,33.4,67,5.8,4.1,Sardine
+Chennai Coast,July,28.8,35.5,46,6.3,3.8,Mackerel
+Rameswaram,February,26.2,35.0,67,5.6,5.8,Pomfret
+Visakhapatnam,September,29.1,35.3,90,6.0,8.5,Seer Fish
+Goa Coast,June,27.7,35.1,70,5.2,5.7,Seer Fish
+Andaman Sea,February,27.6,33.2,68,7.6,2.5,Snapper
+Visakhapatnam,May,27.6,34.3,97,6.0,3.5,Seer Fish
+Visakhapatnam,January,28.4,33.1,66,6.9,6.4,Seer Fish
+Andaman Sea,January,29.2,35.7,54,5.6,8.0,Snapper
+Goa Coast,June,30.8,33.9,40,7.6,4.4,Seer Fish
+Visakhapatnam,February,28.7,33.6,134,7.1,3.3,Tuna
+Kerala Coast,June,26.8,34.3,42,7.0,9.5,Anchovy
+Andaman Sea,May,29.0,34.0,83,8.0,7.1,Tuna
+Kerala Coast,October,26.2,34.4,42,6.2,2.2,Anchovy
+Rameswaram,September,25.9,35.2,21,6.5,5.5,Sardine
+Andaman Sea,January,30.2,34.1,156,7.6,7.4,Tuna
+Andaman Sea,December,29.2,33.5,121,6.4,9.0,Tuna
+Goa Coast,March,28.8,33.2,20,4.6,5.9,Seer Fish
+Kerala Coast,October,24.4,33.7,19,7.7,1.2,Anchovy
+Visakhapatnam,January,28.4,35.3,100,7.0,5.2,Seer Fish
+Chennai Coast,January,26.9,35.1,60,7.2,3.1,Mackerel
+Kerala Coast,September,26.3,33.8,39,7.4,1.8,Sardine
+Rameswaram,June,26.0,35.7,73,4.8,5.0,Sardine
+Visakhapatnam,December,30.5,35.6,51,6.2,7.6,Seer Fish
+Chennai Coast,May,27.4,34.6,29,5.5,8.7,Mackerel
+Goa Coast,May,28.2,34.2,118,7.1,5.1,Snapper
+Goa Coast,October,27.1,35.3,88,6.7,6.4,Seer Fish
+Visakhapatnam,November,28.9,34.5,166,6.2,9.6,Tuna
+Kerala Coast,May,28.1,33.6,44,5.6,2.0,Sardine
+Goa Coast,February,27.7,33.1,83,4.7,4.8,Snapper
+Chennai Coast,January,29.6,34.8,24,6.6,8.1,Mackerel
+Goa Coast,February,27.6,33.9,59,4.8,1.3,Snapper
+Goa Coast,July,28.9,35.7,114,6.1,5.2,Snapper
+Kerala Coast,December,28.1,34.3,80,7.0,6.6,Sardine
+Chennai Coast,September,25.5,33.6,87,7.6,1.6,Pomfret
+Andaman Sea,February,30.6,35.7,124,4.7,1.6,Tuna
+Goa Coast,April,29.7,33.9,23,6.8,2.3,Mackerel
+Goa Coast,January,27.6,33.4,40,7.9,4.2,Snapper
+Goa Coast,July,27.3,34.5,57,4.8,1.7,Seer Fish
+Rameswaram,December,25.2,33.5,82,7.9,9.0,Pomfret
+Kerala Coast,September,26.2,35.0,77,5.0,8.4,Sardine
+Goa Coast,September,28.9,34.1,83,7.3,9.8,Seer Fish
+Visakhapatnam,March,30.1,35.4,96,7.3,4.7,Tuna
+Visakhapatnam,May,27.3,33.8,91,4.7,5.2,Seer Fish
+Kerala Coast,September,28.4,35.9,61,7.2,4.4,Sardine
+Kerala Coast,June,25.4,35.2,49,7.6,9.0,Anchovy
+Goa Coast,December,29.5,35.9,34,5.5,2.7,Seer Fish
+Chennai Coast,October,25.4,33.8,41,7.9,6.3,Pomfret
+Kerala Coast,May,27.0,35.9,12,7.9,1.9,Mackerel
+Rameswaram,January,27.7,33.6,56,6.0,10.0,Pomfret
+Chennai Coast,May,29.0,35.3,54,5.9,4.7,Pomfret
+Kerala Coast,May,27.0,34.3,25,6.8,7.0,Anchovy
+Chennai Coast,March,28.4,33.4,23,5.2,8.0,Mackerel
+Goa Coast,July,28.6,33.5,47,7.0,9.9,Mackerel
+Rameswaram,August,25.8,33.7,38,7.0,9.6,Pomfret
+Chennai Coast,February,27.6,34.5,24,6.3,2.5,Anchovy

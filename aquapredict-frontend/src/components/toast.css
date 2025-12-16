@@ -1,0 +1,20 @@
+/* src/components/toast.css
+   Small dedicated CSS for toast animations.
+   Kept in a separate file to avoid runtime DOM side-effects
+   and to satisfy fast-refresh lint rules.
+*/
+
+@keyframes aq-slideIn {
+  0% {
+    opacity: 0;
+    transform: translateX(25%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.aq-animate-slideIn {
+  animation: aq-slideIn 0.35s ease-out forwards;
+}

@@ -1,0 +1,116 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* ----------------------------------------------
+   Global Theme Background
+---------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(180deg, #012840 0%, #024873 40%, #03738C 100%);
+  color: #E0F7FA;
+  font-family: "Inter", sans-serif;
+}
+
+/* Ensure React root inherits the theme */
+#root {
+  min-height: 100vh;
+  background: transparent;
+}
+
+/* ----------------------------------------------
+   Message fade animation
+---------------------------------------------- */
+
+@keyframes messageFade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.message {
+  animation: messageFade 0.3s ease;
+}
+
+/* ----------------------------------------------
+   Scrollbar styling
+---------------------------------------------- */
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 191, 255, 0.4);
+  border-radius: 3px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ----------------------------------------------
+   Subtle water shimmer (used elsewhere)
+---------------------------------------------- */
+
+@keyframes waterShimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-water {
+  background: linear-gradient(
+    270deg,
+    rgba(3, 115, 140, 0.4),
+    rgba(2, 72, 115, 0.6),
+    rgba(1, 40, 64, 0.4)
+  );
+  background-size: 400% 400%;
+  animation: waterShimmer 18s ease infinite;
+}
+
+/* ----------------------------------------------
+   STEREOFIDELIC FONT LOAD
+---------------------------------------------- */
+
+@font-face {
+  font-family: 'Stereofidelic';
+  src: url('/fonts/Stereofidelic.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ensure proper text spacing */
+.logo-container {
+  line-height: 1;
+}
+
+/* ----------------------------------------------
+   LOGO STYLES (NO ANIMATION, CLEAN RETRO LOOK)
+---------------------------------------------- */
+
+/* Neon (electric-blue retro) */
+.logo--neon {
+  background: linear-gradient(90deg, #00f0ff 0%, #00c2ff 40%, #0077ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow:
+    0 0 6px rgba(0, 224, 255, 0.35),
+    0 4px 18px rgba(0, 56, 102, 0.45);
+  position: relative;
+}
+
+/* Frutiger Aero / glassy gloss *
