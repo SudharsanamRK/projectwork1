@@ -175,7 +175,7 @@ Returns current weather and sea conditions
 
 ## Conclusion
 
-    AquaPredict demonstrates how artificial intelligence and data analytics can modernize traditional fishing practices. By combining environmental prediction, market intelligence, and sustainability planning, the system helps improve decision making, reduce risks, and support long term marine resource management.
+AquaPredict demonstrates how artificial intelligence and data analytics can modernize traditional fishing practices. By combining environmental prediction, market intelligence, and sustainability planning, the system helps improve decision making, reduce risks, and support long term marine resource management.
 
 ## License
 
