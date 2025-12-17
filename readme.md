@@ -11,42 +11,70 @@ Fishing activities are often affected by unpredictable ocean conditions and fluc
 The project follows a multi layer architecture:
 
     1. React based frontend for visualization and user interaction
+
     2. Python Flask server for machine learning predictions
+    
     3. Node.js Express backend for chatbot and weather services
+    
     4. External APIs for weather data and conversational AI
+    
     5. Machine learning models trained using historical datasets
 
 ## Features
+    
     1. Fish species prediction based on environmental parameters
+    
     2. Regional fishing zone visualization using interactive maps
+    
     3. Market price trend analysis and forecasting
+    
     4. AI chatbot for fishing advice and safety guidance
+    
     5. Sustainable harvest planner for revenue and conservation balance
+    
     6. Alerts for environmental and market anomalies
+    
     7. Data export in CSV and JSON formats
 
 ## Technologies Used
 
 #### Frontend
+    
     1. React.js
+    
     2. Vite
+    
     3. Tailwind CSS
+    
     4. Recharts
+    
     5. Leaflet and React Leaflet
 
 #### Backend
+    
     1. Node.js
+    
     2. Express.js
-    3.Axios
+    
+    3. Axios
+    
     4. OpenWeather API
+    
     5. Groq or OpenAI API
+    
     6. Machine Learning
 
+
 #### Python
+    
     1. Flask
+    
     2. scikit learn
+    
     3. Pandas
+    
     4. NumPy
+    
     5. Joblib
 
 ## Project Structure
@@ -83,31 +111,31 @@ The project follows a multi layer architecture:
 
 #### Backend Setup
 
-1. Navigate to aquapredict-backend
+    1. Navigate to aquapredict-backend
 
-2. Install dependencies using npm install
+    2. Install dependencies using npm install
 
-3. Create a .env file with API keys
+    3. Create a .env file with API keys
 
-4. Start the server using node server.js
+    4. Start the server using node server.js
 
 #### Frontend Setup
 
-1. Navigate to aquapredict-frontend
+    1. Navigate to aquapredict-frontend
 
-2. Install dependencies using npm install
+    2. Install dependencies using npm install
 
-3. Run the development server using npm run dev
+    3. Run the development server using npm run dev
 
 ## Machine Learning API Setup
 
-1. Navigate to fish_predictor
+    1. Navigate to fish_predictor
 
-2. Install Python dependencies using pip install -r requirements.txt
+    2. Install Python dependencies using pip install -r requirements.txt
 
-3. Train the model using python train_model.py
+    3. Train the model using python train_model.py
 
-4. Start the Flask server using python app.py
+    4. Start the Flask server using python app.py
 
 ## API Endpoints
 
@@ -123,31 +151,31 @@ Returns current weather and sea conditions
 
 ## Output Modules
 
-1. Dashboard overview with environmental metrics
+    1. Dashboard overview with environmental metrics
 
-2. Fish prediction results with regional heatmap
+    2. Fish prediction results with regional heatmap
 
-3. Market trend analysis and price forecasting
+    3. Market trend analysis and price forecasting
 
-4. AquaBot chat interface
+    4. AquaBot chat interface
 
-5. Sustainable harvest planning recommendations
+    5. Sustainable harvest planning recommendations
 
 ## Future Enhancements
 
-1. Integration of real time satellite ocean data
+    1. Integration of real time satellite ocean data
 
-2. Mobile application support
+    2. Mobile application support
 
-3. Multilingual chatbot for regional fishermen
+    3. Multilingual chatbot for regional fishermen
 
-4. Deep learning based time series forecasting
+    4. Deep learning based time series forecasting
 
-5. GPS based route optimization
+    5. GPS based route optimization
 
 ## Conclusion
 
-AquaPredict demonstrates how artificial intelligence and data analytics can modernize traditional fishing practices. By combining environmental prediction, market intelligence, and sustainability planning, the system helps improve decision making, reduce risks, and support long term marine resource management.
+    AquaPredict demonstrates how artificial intelligence and data analytics can modernize traditional fishing practices. By combining environmental prediction, market intelligence, and sustainability planning, the system helps improve decision making, reduce risks, and support long term marine resource management.
 
 ## License
 
