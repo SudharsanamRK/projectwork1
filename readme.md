@@ -185,6 +185,9 @@ GET /api/weather
 ```
 Returns real-time environmental data.
 
+## System Architecture
+<img width="1024" height="1024" alt="Gemini_Generated_Image_c3hi2wc3hi2wc3hi" src="https://github.com/user-attachments/assets/3e7ad98c-0d5e-45c3-afcb-6c842404a7de" />
+
 ## Output Modules
 
 ### 1. Dashboard overview with key metrics
@@ -209,7 +212,9 @@ Returns real-time environmental data.
 ### 6. Harvest planner recommendations
 ![Harvest-Planner](https://github.com/user-attachments/assets/209b9336-19c0-4344-9c75-103921cecb61)
 
+## Results and Impact
 
+The AquaPredict system successfully integrates machine learning, real-time environmental analytics, market trend analysis, and conversational AI into a unified decision-support platform for fisheries. The developed models provide reliable fish species predictions based on environmental parameters, while real-time weather and sea condition monitoring enhances safety and situational awareness. Market price visualization and forecasting support informed economic decisions, and the AI-powered AquaBot delivers timely guidance and assistance to users. Additionally, the sustainable harvest planner promotes responsible fishing by balancing revenue optimization with conservation considerations. Overall, AquaPredict improves operational efficiency, economic outcomes, and safety for fishermen while encouraging sustainable marine resource management, demonstrating the practical impact of AI-driven technologies in modernizing traditional fishing practices.
 
 ## Future Enhancements
 
@@ -226,3 +231,35 @@ AquaPredict demonstrates how **AI, machine learning, and data analytics** can mo
 ## License
 
 This project is developed for academic and research purposes.
+
+## Articles published / References
+
+[1]
+Hossain, M. S., Ghosh, S., Rahman, M. A., & Hasan, M. M. (2022).
+Machine learning-based fish species classification and prediction using environmental and habitat data.
+Ecological Informatics, 68, 101528.
+https://doi.org/10.1016/j.ecoinf.2022.101528
+
+[2]
+Rahman, M. M., Islam, M. R., & Hasan, M. M. (2023).
+AI-based decision support systems for climate-resilient fisheries management.
+Environmental Modelling & Software, 158, 105532.
+https://doi.org/10.1016/j.envsoft.2022.105532
+
+[3]
+Kumar, A., Singh, R., & Patel, N. R. (2023).
+Agricultural and fisheries commodity price forecasting using hybrid machine learning models.
+Applied Soft Computing, 132, 109876.
+https://doi.org/10.1016/j.asoc.2022.109876
+
+[4]
+Villasante, S., Pita, C., Antelo, M., & Rodrigues, J. G. (2020).
+Social-ecological systems and decision support tools for sustainable fisheries management.
+Marine Policy, 117, 103953.
+https://doi.org/10.1016/j.marpol.2020.103953
+
+[5]
+Adamopoulou, E., & Moussiades, L. (2020).
+Chatbots: History, technology, and applications.
+Machine Learning with Applications, 2, 100006.
+https://doi.org/10.1016/j.mlwa.2020.100006
