@@ -3,9 +3,6 @@ import { generateHarvestPlan } from "../controllers/predictorController.js";
 
 const router = express.Router();
 
-/**
- * ML-powered fish harvest prediction
- */
-router.post("/fish", generateHarvestPlan);
+router.post("/plan", generateHarvestPlan);
 
 export default router;

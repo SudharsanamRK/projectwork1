@@ -23,9 +23,15 @@ export const handleChat = async (req, res) => {
 
     try {
       reply = await getGeminiResponse(message);
-    } catch {
-      reply = await getGroqResponse(message);
+    } catch (e1) {
+      try {
+        reply = await getGroqResponse(message);
+      } catch (e2) {
+        reply =
+          "I’m having trouble connecting to my AI services right now. Please try again in a moment.";
+      }
     }
+
 
     res.json({ reply });
   } catch (error) {

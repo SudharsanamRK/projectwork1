@@ -138,7 +138,7 @@ Start the server:
 node server.js
 ```
 
-#### Frontend Setup
+### Frontend Setup
 
 ```bash
 cd aquapredict-frontend
@@ -146,7 +146,7 @@ npm install
 npm run dev
 ```
 
-## Machine Learning API Setup
+### Machine Learning API Setup
 
 ```bash
 cd fish_predictor
@@ -163,7 +163,7 @@ Start the ML API:
 python app.py
 ```
 
-## API Endpoints
+### API Endpoints
 
 ##### Fish Prediction
 ```bash
@@ -187,11 +187,20 @@ Returns real-time environmental data.
 
 ## Output Modules
 
-1. Dashboard overview with key metrics
-2. Fish prediction results with insights
-3. Market trend and price analysis
-4. AquaBot chat interface
-5. Harvest planner recommendations
+### 1. Dashboard overview with key metrics
+![Dashboard](assets\screenshots\dashboard.jpeg)
+### 2. Fish prediction results with insights
+![Fish-Prediction-Basic](assets\screenshots\fish-prediction-simple.jpeg)
+![Fish-Prediction-Advanced](assets\screenshots\fish-prediction-advanced.jpeg)
+### 3. Market trend and price analysis
+![Market](assets\screenshots\market-trends.jpeg)
+### 4. Environment interface
+![Environment](assets\screenshots\environment.jpeg)
+### 5. AquaBot chat interface
+![Chatbot](assets\screenshots\aquabot.jpeg)
+### 6. Harvest planner recommendations
+![Harvest-Planner](assets\screenshots\harvest-planner.jpeg)
+
 
 ## Future Enhancements
 

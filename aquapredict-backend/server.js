@@ -3,6 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import chatRoutes from "./routes/chatRoutes.js";
 import predictRoutes from "./routes/predictRoutes.js";
+import harvestRoutes from "./routes/harvestRoutes.js";
 
 dotenv.config();
 
@@ -12,6 +13,7 @@ app.use(express.json());
 
 app.use("/api/chat", chatRoutes);
 app.use("/api/predict", predictRoutes);
+app.use("/api/harvest", harvestRoutes);
 
 const PORT = process.env.PORT || 5000;
 

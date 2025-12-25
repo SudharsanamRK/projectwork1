@@ -418,6 +418,7 @@ export default function ChatbotPage() {
   const sendMessage = async () => {
     const txt = input.trim();
     if (!txt) return;
+
     const userMsg = { sender: "user", text: txt, ts: new Date().toISOString() };
     const next = [...messages, userMsg];
     setMessages(next);
@@ -432,10 +433,21 @@ export default function ChatbotPage() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: txt }),
       });
+
       const data = await res.json();
-      const botText = data?.message || "🤖 Sorry, I couldn't process that.";
+      console.log("CHAT API RESPONSE:", data); // debug (keep for now)
+
+      const botText =
+        data?.reply ||
+        data?.text ||
+        "Sorry, I couldn't process that.";
+
       setTimeout(() => {
-        const botMsg = { sender: "bot", text: botText, ts: new Date().toISOString() };
+        const botMsg = {
+          sender: "bot",
+          text: botText,
+          ts: new Date().toISOString(),
+        };
         const next2 = [...next, botMsg];
         setMessages(next2);
         persistActiveMessages(next2);
@@ -444,7 +456,11 @@ export default function ChatbotPage() {
     } catch (err) {
       console.error("Chat error:", err);
       setTimeout(() => {
-        const botMsg = { sender: "bot", text: "⚠️ Server error. Please try later.", ts: new Date().toISOString() };
+        const botMsg = {
+          sender: "bot",
+          text: "⚠️ Server error. Please try later.",
+          ts: new Date().toISOString(),
+        };
         const next2 = [...next, botMsg];
         setMessages(next2);
         persistActiveMessages(next2);
@@ -452,6 +468,7 @@ export default function ChatbotPage() {
       }, 300);
     }
   };
+
 
   const handlePickPrompt = (p) => setInput(p);
 
