@@ -7,5 +7,11 @@ export const getWeather = async (city) => {
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${key}&units=metric`;
   const res = await axios.get(url);
   const data = res.data;
-  return `${data.weather[0].description}, temperature: ${data.main.temp}°C, wind: ${data.wind.speed} m/s`;
+
+  return {
+    temperature: data.main.temp,
+    salinity: 34.0, // simulated (marine sensors later)
+    waveHeight: Math.random() * 1.5 + 0.5,
+    wind: `${data.wind.speed} km/h`
+  };
 };

@@ -6,9 +6,12 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # === Load model and encoders ===
-MODEL_PATH = os.path.join("models", "fish_model.pkl")
-ENCODER_PATH = os.path.join("models", "label_encoders.pkl")
-DATA_PATH = os.path.join("data", "fish_dataset.csv")
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+
+MODEL_PATH = os.path.join(BASE_DIR, "models", "fish_model.pkl")
+ENCODER_PATH = os.path.join(BASE_DIR, "models", "label_encoders.pkl")
+
+DATA_PATH = os.path.join(os.path.dirname(__file__), "fish_dataset.csv")
 
 if not os.path.exists(MODEL_PATH) or not os.path.exists(ENCODER_PATH):
     raise FileNotFoundError("Model or encoders not found! Please run train_model.py first.")

@@ -2,26 +2,25 @@
 @import "leaflet/dist/leaflet.css";
 
 /* ----------------------------------------------
-   Global Theme Background
+   GLOBAL BASE (LET PAGES CONTROL BACKGROUNDS)
 ---------------------------------------------- */
 
 html,
 body {
   height: 100%;
   margin: 0;
-  background: linear-gradient(180deg, #012840 0%, #024873 40%, #03738C 100%);
+  background: #020617; /* neutral base */
   color: #E0F7FA;
-  font-family: "Inter", sans-serif;
+  font-family: "Inter", system-ui, sans-serif;
 }
 
-/* Ensure React root inherits the theme */
 #root {
   min-height: 100vh;
   background: transparent;
 }
 
 /* ----------------------------------------------
-   Message fade animation
+   MESSAGE FADE (CHAT / UI)
 ---------------------------------------------- */
 
 @keyframes messageFade {
@@ -34,27 +33,30 @@ body {
     transform: translateY(0);
   }
 }
+
 .message {
   animation: messageFade 0.3s ease;
 }
 
 /* ----------------------------------------------
-   Scrollbar styling
+   SCROLLBAR STYLING
 ---------------------------------------------- */
 
 .scrollbar-thin::-webkit-scrollbar {
   width: 6px;
 }
+
 .scrollbar-thin::-webkit-scrollbar-thumb {
   background-color: rgba(0, 191, 255, 0.4);
   border-radius: 3px;
 }
+
 .scrollbar-thin::-webkit-scrollbar-track {
   background: transparent;
 }
 
 /* ----------------------------------------------
-   Subtle water shimmer (used elsewhere)
+   WATER SHIMMER (OPTIONAL EFFECT)
 ---------------------------------------------- */
 
 @keyframes waterShimmer {
@@ -81,36 +83,43 @@ body {
 }
 
 /* ----------------------------------------------
-   STEREOFIDELIC FONT LOAD
+   STEREOFIDELIC FONT (AQUAPREDICT BRAND)
 ---------------------------------------------- */
 
 @font-face {
-  font-family: 'Stereofidelic';
-  src: url('/fonts/Stereofidelic.otf') format('opentype');
-  font-weight: 700;
+  font-family: "Stereofidelic";
+  src: url("/fonts/Stereofidelic.otf") format("opentype");
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
-/* ensure proper text spacing */
+/* Utility class for brand text */
+.font-stereo {
+  font-family: "Stereofidelic", system-ui, sans-serif;
+  letter-spacing: 0.02em;
+}
+
+/* ----------------------------------------------
+   LOGO HELPERS
+---------------------------------------------- */
+
 .logo-container {
   line-height: 1;
 }
 
-/* ----------------------------------------------
-   LOGO STYLES (NO ANIMATION, CLEAN RETRO LOOK)
----------------------------------------------- */
-
-/* Neon (electric-blue retro) */
+/* Neon electric-blue logo style */
 .logo--neon {
-  background: linear-gradient(90deg, #00f0ff 0%, #00c2ff 40%, #0077ff 100%);
+  background: linear-gradient(
+    90deg,
+    #00f0ff 0%,
+    #00c2ff 40%,
+    #0077ff 100%
+  );
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
   text-shadow:
     0 0 6px rgba(0, 224, 255, 0.35),
     0 4px 18px rgba(0, 56, 102, 0.45);
-  position: relative;
 }
-
-/* Frutiger Aero / glassy gloss *

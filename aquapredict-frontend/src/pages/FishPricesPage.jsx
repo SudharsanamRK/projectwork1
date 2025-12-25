@@ -16,11 +16,11 @@ export default function FishPricesPage() {
     };
 
     fetchPrices();
-  }, [state]); // ✅ dependency OK — won't give warning now
+  }, [state]); 
 
   return (
     <div className="text-white space-y-4">
-      <h2 className="text-xl font-bold">🐟 Market Fish Prices - India</h2>
+      <h2 className="text-xl font-bold">Market Fish Prices - India</h2>
 
       <select
         className="bg-slate-800 p-2 rounded"

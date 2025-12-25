@@ -6,7 +6,7 @@ import joblib
 import os
 
 # Load dataset
-DATA_PATH = os.path.join("data", "fish_dataset.csv")
+DATA_PATH = os.path.join(os.path.dirname(__file__), "fish_dataset.csv")
 if not os.path.exists(DATA_PATH):
     raise FileNotFoundError("Dataset not found! Please run generate_dataset.py first.")
 
