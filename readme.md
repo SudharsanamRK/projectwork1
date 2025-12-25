@@ -22,6 +22,9 @@ The platform is designed so that users **do not need technical or scientific exp
 
 ## System Architecture
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_c3hi2wc3hi2wc3hi" src="https://github.com/user-attachments/assets/73ece664-a321-49a6-a710-aaa724717295" />
+
+
 AquaPredict follows a **modular, multi-service architecture**:
 
 1. **React + Vite Frontend**
@@ -118,7 +121,7 @@ AQUAPREDICT
 
 ## Installation and Setup
 
-#### Backend Setup
+### Backend Setup
 
 ```bash
 cd aquapredict-backend
@@ -185,8 +188,6 @@ GET /api/weather
 ```
 Returns real-time environmental data.
 
-## System Architecture
-<img width="1024" height="1024" alt="Gemini_Generated_Image_c3hi2wc3hi2wc3hi" src="https://github.com/user-attachments/assets/3e7ad98c-0d5e-45c3-afcb-6c842404a7de" />
 
 ## Output Modules
 
