@@ -188,18 +188,27 @@ Returns real-time environmental data.
 ## Output Modules
 
 ### 1. Dashboard overview with key metrics
-![Dashboard](assets\screenshots\dashboard.jpeg)
+![Dashboard](https://github.com/user-attachments/assets/cd0612d8-86fd-40b5-8400-4141ec660181)
+
 ### 2. Fish prediction results with insights
-![Fish-Prediction-Basic](assets\screenshots\fish-prediction-simple.jpeg)
-![Fish-Prediction-Advanced](assets\screenshots\fish-prediction-advanced.jpeg)
+**Basic Mode for Fish Prediction**
+![Fish-Prediction-Basic](https://github.com/user-attachments/assets/f7bbeb38-3e4a-4558-80a1-f0c835154c0f)
+
+**Advanced Mode for Fish Prediction**
+![Fish-Prediction-Advanced](https://github.com/user-attachments/assets/e86627f5-e711-43c9-95a3-965ec1e9db11)
+
 ### 3. Market trend and price analysis
-![Market](assets\screenshots\market-trends.jpeg)
+![Market](https://github.com/user-attachments/assets/babc1f3b-96b7-44b4-8245-8374ec1ab381)
+
 ### 4. Environment interface
-![Environment](assets\screenshots\environment.jpeg)
+![Environment](https://github.com/user-attachments/assets/e67af6bd-10fd-4c42-9e2a-872e130d1f02)
+
 ### 5. AquaBot chat interface
-![Chatbot](assets\screenshots\aquabot.jpeg)
+![Chatbot](https://github.com/user-attachments/assets/96155fd6-0128-4408-8d61-1829da2ad27d)
+
 ### 6. Harvest planner recommendations
-![Harvest-Planner](assets\screenshots\harvest-planner.jpeg)
+![Harvest-Planner](https://github.com/user-attachments/assets/209b9336-19c0-4344-9c75-103921cecb61)
+
 
 
 ## Future Enhancements
