@@ -1,181 +1,209 @@
 # AquaPredict
 
-AquaPredict is an AI powered fishing and market prediction system designed to support fishermen, traders, and aquaculture planners. The system combines machine learning, environmental analytics, and market intelligence to predict fish species availability, forecast prices, and assist in sustainable harvesting decisions.
+**AquaPredict** is an AI-powered decision support platform for fisheries and aquaculture. It helps fishermen, traders, and planners make **safer, smarter, and more sustainable decisions** by combining environmental analytics, machine learning predictions, market intelligence, and an AI chatbot assistant.
+
+The system translates complex ocean, weather, and market data into **clear, actionable insights** through an interactive dashboard.
 
 ## Project Overview
 
-Fishing activities are often affected by unpredictable ocean conditions and fluctuating market prices. AquaPredict addresses these challenges by analyzing environmental parameters such as temperature, salinity, oxygen levels, rainfall, and seasonal patterns to generate actionable insights. The platform provides real time dashboards, predictive analytics, market trend visualization, and an AI based chatbot assistant.
+Fishing operations are highly dependent on environmental conditions and volatile market prices. AquaPredict addresses these challenges by:
+
+1. Analyzing **sea and weather parameters** (temperature, rainfall, wind, waves, air quality)
+
+2. Predicting **fish species suitability and availability**
+
+3. Forecasting **market price trends**
+
+4. Assisting users with **AI-driven guidance through a chatbot**
+
+5. Supporting **sustainable harvesting** and conservation-aware planning
+
+The platform is designed so that users **do not need technical or scientific expertise** to benefit from advanced analytics.
 
 ## System Architecture
 
-The project follows a multi layer architecture:
+AquaPredict follows a **modular, multi-service architecture**:
 
-    1. React based frontend for visualization and user interaction
+1. **React + Vite Frontend**
+    - Interactive dashboard
+    - Static sidebar navigation
+    - Data visualization and maps
 
-    2. Python Flask server for machine learning predictions
+2. **Node.js + Express Backend**
+    - AI chatbot (Gemini / Groq fallback)
+    - Weather, air quality, and market services
+    - REST APIs for frontend integration
+
+3. **Python Flask ML Service**
+    - Fish species prediction
+    - Trained machine learning models
+    - Model evaluation and retraining utilities
     
-    3. Node.js Express backend for chatbot and weather services
+4. **External APIs**
+    - Weather & environmental data
+    - Conversational AI (Gemini / Groq)
     
-    4. External APIs for weather data and conversational AI
-    
-    5. Machine learning models trained using historical datasets
+5. **Machine Learning Models**
+   - Trained using historical fisheries datasets
+   - Serialized using Joblib / Pickle
 
 ## Features
     
-    1. Fish species prediction based on environmental parameters
-    
-    2. Regional fishing zone visualization using interactive maps
-    
-    3. Market price trend analysis and forecasting
-    
-    4. AI chatbot for fishing advice and safety guidance
-    
-    5. Sustainable harvest planner for revenue and conservation balance
-    
-    6. Alerts for environmental and market anomalies
-    
-    7. Data export in CSV and JSON formats
+1. **Predictive Species Selection:** The system identifies the most suitable fish species for farming or harvesting by analyzing specific environmental parameters.
+2. **Interactive Regional Mapping:** Users can access visual, interactive maps that highlight optimal fishing zones and real-time environmental conditions.
+3. **Comprehensive Market Analytics:** The platform tracks historical data and generates forecasts for fish prices to help users understand market trends.
+4. **AI-Powered Technical Support:** A dedicated chatbot, AquaBot, utilizes Gemini and Groq to provide expert fishing advice and safety guidance.
+5. **Sustainable Harvest Management:** The planner helps users balance their financial revenue goals with essential ecological conservation limits.
+6. **Proactive Risk Alerting:** The system automatically detects and notifies users of unusual environmental changes or volatile market conditions.
+7. **Versatile Data Portability:** All generated insights and data can be exported in CSV or JSON formats for external analysis or record-keeping.
 
 ## Technologies Used
 
 #### Frontend
     
-1. React.js
-    
-2. Vite
-    
-3. Tailwind CSS
-    
-4. Recharts
-  
-5. Leaflet and React Leaflet
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Recharts
+- Leaflet & React-Leaflet
+- Lucide Icons
 
-#### Backend
+#### Backend (Node.js)
     
-1. Node.js
-    
-2. Express.js
-    
-3. Axios
-    
-4. OpenWeather API
-    
-5. Groq or OpenAI API
-    
-6. Machine Learning
+- Node.js
+- Express.js
+- Axios
+- Gemini API
+- Groq API
+- OpenWeather / Environmental APIs
 
+#### Machine Learning (Python)
 
-#### Python
-    
-1. Flask
-    
-2. scikit learn
-    
-3. Pandas
-    
-4. NumPy
-    
-5. Joblib
+- Flask
+- scikit-learn
+- Pandas
+- NumPy
+- Joblib
 
 ## Project Structure
-```pgsql
-    AQUAPREDICT
-    │
-    ├── aquapredict-backend
-    │   ├── controllers
-    │   ├── routes
-    │   ├── services
-    │   ├── utils
-    │   ├── server.js
-    │   └── package.json
-    │
-    ├── aquapredict-frontend
-    │   ├── src
-    │   │   ├── components
-    │   │   ├── pages
-    │   │   ├── hooks
-    │   │   └── context
-    │   ├── App.jsx
-    │   └── package.json
-    │
-    └── fish_predictor
-        ├── datasets
-        ├── models
-        ├── train_model.py
-        ├── preprocess.py
-        ├── app.py
-        └── requirements.txt
+```text
+AQUAPREDICT
+│
+├── aquapredict-backend
+│   ├── controllers
+│   ├── routes
+│   ├── services
+│   ├── utils
+│   ├── server.js
+│   └── package.json
+│
+├── aquapredict-frontend
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── services
+│   │   └── styles
+│   ├── App.jsx
+│   └── package.json
+│
+└── fish_predictor
+    ├── datasets
+    ├── models
+    ├── utils
+    ├── app.py
+    ├── train_model.py
+    └── requirements.txt
 ```
 
 ## Installation and Setup
 
 #### Backend Setup
 
-1. Navigate to aquapredict-backend
+```bash
+cd aquapredict-backend
+npm install
+```
 
-2. Install dependencies using npm install
+Create a .env file (not committed to GitHub):
+```env
+PORT=5000
+WEATHER_API_KEY=your_key
+GEMINI_API_KEY=your_key
+GROQ_API_KEY=your_key
+```
 
-3. Create a .env file with API keys
-
-4. Start the server using node server.js
+Start the server:
+```bash
+node server.js
+```
 
 #### Frontend Setup
 
-1. Navigate to aquapredict-frontend
-
-2. Install dependencies using npm install
-
-3. Run the development server using npm run dev
+```bash
+cd aquapredict-frontend
+npm install
+npm run dev
+```
 
 ## Machine Learning API Setup
 
-1. Navigate to fish_predictor
+```bash
+cd fish_predictor
+pip install -r requirements.txt
+```
 
-2. Install Python dependencies using pip install -r requirements.txt
+Train the model:
+```bash
+python train_model.py
+```
 
-3. Train the model using python train_model.py
-
-4. Start the Flask server using python app.py
+Start the ML API:
+```bash
+python app.py
+```
 
 ## API Endpoints
 
-##### Fish Prediction API
-*POST /predict*
-Returns predicted fish species and abundance
+##### Fish Prediction
+```bash
+POST /predict
+```
+Returns predicted fish species and suitability score.
 
-*POST /api/chat*
-Returns chatbot responses based on user queries
+#### Chatbot
 
-*GET /api/weather*
-Returns current weather and sea conditions
+```bash
+POST /api/chat
+```
+Returns AI-generated responses for user queries.
+
+#### Weather & Environment
+
+```bash
+GET /api/weather
+```
+Returns real-time environmental data.
 
 ## Output Modules
 
-1. Dashboard overview with environmental metrics
-
-2. Fish prediction results with regional heatmap
-
-3. Market trend analysis and price forecasting
-
+1. Dashboard overview with key metrics
+2. Fish prediction results with insights
+3. Market trend and price analysis
 4. AquaBot chat interface
-
-5. Sustainable harvest planning recommendations
+5. Harvest planner recommendations
 
 ## Future Enhancements
 
 1. Integration of real time satellite ocean data
-
 2. Mobile application support
-
 3. Multilingual chatbot for regional fishermen
-
 4. Deep learning based time series forecasting
-
 5. GPS based route optimization
 
 ## Conclusion
 
-AquaPredict demonstrates how artificial intelligence and data analytics can modernize traditional fishing practices. By combining environmental prediction, market intelligence, and sustainability planning, the system helps improve decision making, reduce risks, and support long term marine resource management.
+AquaPredict demonstrates how **AI, machine learning, and data analytics** can modernize traditional fishing and aquaculture practices. By combining environmental intelligence, market forecasting, and sustainability-aware planning, the system helps reduce risk, improve efficiency, and support long-term marine resource management.
 
 ## License
 
